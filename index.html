@@ -47,10 +47,10 @@
         const container = document.getElementById("layers");
 
         for (const [name, url] of Object.entries(layerFiles)) {
-          console.log('layer', name, url);
-          // Create the KML layer
+          full_url = window.location.origin + '/' + url
+          console.log('layer', name, full_url);
           const layer = new google.maps.KmlLayer({
-            url: window.location.origin + "/" + url,
+            url: full_url,
             map: map,
             preserveViewport: true
           });

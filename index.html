@@ -20,52 +20,11 @@
       }
     </style>
 
-<!--
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3sfpp0u9UForUSTcrZhhPLF1iWxKkXKU">
-    </script>
--->
     <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3sfpp0u9UForUSTcrZhhPLF1iWxKkXKU&callback=initMap"
       async
       defer
     ></script>
-
-    <script>
-    let map;
-    let bounds;
-
-    function initMap() {
-      map = new google.maps.Map(document.getElementById("map"), {
-        center: { lat: 0, lng: 0 },  // temporary
-        zoom: 2                      // temporary
-      });
-
-      bounds = new google.maps.LatLngBounds();
-
-      const layerFiles = {
-        "Food": "layers/food.kml",
-        "Parks": "layers/parks.kml",
-        "Education": "layers/education.kml"
-      };
-
-      for (const [name, url] of Object.entries(layerFiles)) {
-        const layer = new google.maps.KmlLayer({
-          url: "https://yourusername.github.io/yourrepo/" + url,
-          preserveViewport: true
-        });
-
-        // When the layer loads, expand the bounds
-        google.maps.event.addListener(layer, "defaultviewport_changed", () => {
-          const layerBounds = layer.getDefaultViewport();
-          bounds.union(layerBounds);
-          map.fitBounds(bounds);
-        });
-
-        layer.setMap(map);
-      }
-    }
-    </script>
 
     <script>
       let map;
@@ -81,8 +40,8 @@
 
         // Define your KML layers here
         const layerFiles = {
-          "Test": "layers/test.kml",
-          "Places": "layers/places.kml",
+          //'Test': "layers/test.kml",
+          'Places': "layers/places.kml",
           //"Food": "layers/food.kml",
           //"Parks": "layers/parks.kml",
           //"Education": "layers/education.kml"
@@ -90,15 +49,16 @@
 
         for (const [name, url] of Object.entries(layerFiles)) {
           const layer = new google.maps.KmlLayer({
-            url: "https://yourusername.github.io/yourrepo/" + url,
+            url: 'https://timkeith.github.io/test-map/' + url,
             preserveViewport: true
           });
 
           // When the layer loads, expand the bounds
-          google.maps.event.addListener(layer, "defaultviewport_changed", () => {
+          google.maps.event.addListener(layer, 'defaultviewport_changed', () => {
             const layerBounds = layer.getDefaultViewport();
             bounds.union(layerBounds);
             map.fitBounds(bounds);
+            console.log('bound=', bounds);
           });
 
           layer.setMap(map);

@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="paddle-red-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Hotels</name>
+      <Placemark>
+        <name>Mare Resort, Trani</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>16.42222,41.27722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masseria Torre di Nebbia, Castel del Monte</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>16.28627,41.03416,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Il Borgo B&amp;B Gravina in Puglia</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>16.41587,40.81707,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Viceconte Matera, Basilicata</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>16.61223,40.66661,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abate Masseria, Noci</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>17.12683,40.77884,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masseria Le Torri, Polignano a Mare</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>17.17465,40.96997,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Il Sogno delle Benedettine, Ostuni</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>17.578,40.73328,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masseria Bosco, Avetrana</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>17.72016,40.37122,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corte Palmieri, Gallipoli</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>17.97639,40.05567,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Masseria Palane, Patù</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>18.34169,39.8328,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo de Mori, Otranto</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>18.493,40.14559,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palazzo Rollo, Lecce</name>
+        <styleUrl>#paddle-red-circle</styleUrl>
+        <Point>
+          <coordinates>18.16923,40.35254,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

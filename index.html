@@ -27,13 +27,7 @@
     <div id='layers'></div>
     <div id='map'></div>
   </body>
-  <script>
-    const layerFiles = {
-      // change version number when file changes to defeat caching
-      'Places':   'layers/places.kml?v=1',
-      'Routes':   'layers/polyline.kml?v=1',
-    };
-  </script>
+  <script src='layers/list.js'></script>
   <script src='js/map.js'></script>
   <script
     src='https://maps.googleapis.com/maps/api/js?key=AIzaSyB3sfpp0u9UForUSTcrZhhPLF1iWxKkXKU&callback=initMap'

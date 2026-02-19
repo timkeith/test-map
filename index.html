@@ -19,24 +19,21 @@
         font-family:   sans-serif;
       }
     </style>
-
-    <script>
-      const layerFiles = {
-        'Places':   'layers/places.kml',
-      };
-    </script>
-    <script src='js/map.js'></script>
-    <script
-      src='https://maps.googleapis.com/maps/api/js?key=AIzaSyB3sfpp0u9UForUSTcrZhhPLF1iWxKkXKU&callback=initMap'
-      async
-      defer
-    ></script>
-
   </head>
 
   <body>
     <div id='layers'></div>
     <div id='map'></div>
   </body>
+  <script>
+    const layerFiles = {
+      'Places':   'layers/places.kml',
+    };
+  </script>
+  <script src='js/map.js'></script>
+  <script
+    src='https://maps.googleapis.com/maps/api/js?key=AIzaSyB3sfpp0u9UForUSTcrZhhPLF1iWxKkXKU&callback=initMap'
+    async
+    defer
+  ></script>
 </html>
-

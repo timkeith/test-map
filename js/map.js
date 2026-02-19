@@ -8,6 +8,7 @@ function initMap() {
     { center: { lat: 0, lng: 0 }, zoom: 2 });
   bounds = new google.maps.LatLngBounds();
   const container = document.getElementById('layers');
+  console.log('container:', container);
   for (const [name, url] of Object.entries(layerFiles)) {
     const layer = new google.maps.KmlLayer({
       url:              `${window.location.origin}${window.location.pathname}${url}`,

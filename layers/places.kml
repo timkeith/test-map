@@ -8,87 +8,11 @@
         </Icon>
       </IconStyle>
     </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
-    <Style id="paddle-red-circle">
-      <IconStyle>
-        <Icon>
-          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-        </Icon>
-      </IconStyle>
-    </Style>
     <Folder>
       <name>Hotels</name>
       <Placemark>
         <name>Mare Resort, Trani</name>
+        <description>this is description of Mare</description>
         <styleUrl>#paddle-red-circle</styleUrl>
         <Point>
           <coordinates>16.42222,41.27722,0</coordinates>

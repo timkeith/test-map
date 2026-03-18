@@ -1,0 +1,256 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <Folder>
+  <name>Near Termini</name>
+  <Placemark>
+   <name>Roma Vespahouse</name>
+   <description><![CDATA[
++39 327 869 5220
+<br>
+Via Carlo Cattaneo, 22, 00185 Roma RM
+<br>
+https://www.romavespahouse.com/
+<br>
+Google: 4.8 (96)
+<br>
+Map: https://tinyurl.com/bdzx3jb9
+<br>
+$229
+<br>
+9.2 hotels.com
+   ]]></description>
+   <Point>
+    <coordinates>12.50244,41.89866,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Stay Smart Termini</name>
+   <description><![CDATA[
+None
+<br>
+Via Enrico Cialdini, 13, 00185 Roma RM
+<br>
+http://staytermini.it/
+<br>
+Google: 4.3 (15)
+<br>
+Map: https://tinyurl.com/mrx78edp
+<br>
+$232
+<br>
+9.2 hotels.com
+   ]]></description>
+   <Point>
+    <coordinates>12.50319,41.89852,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Relais la Maison</name>
+   <description><![CDATA[
++39 06 4543 7235
+<br>
+Via Agostino Depretis, 70, 00184 Roma RM
+<br>
+http://www.relaislamaison.com/
+<br>
+Google: 4.3 (112)
+<br>
+Map: https://tinyurl.com/yc64u2d3
+<br>
+$250
+<br>
+9.2 hotels.com
+   ]]></description>
+   <Point>
+    <coordinates>12.49565,41.89933,0</coordinates>
+   </Point>
+  </Placemark>
+ </Folder>
+ <Folder>
+  <name>Drive to Trani</name>
+  <Placemark>
+   <name>Locanda dello Spuntino</name>
+   <description><![CDATA[
++39 06 9431 5985
+<br>
+Via Cicerone, 22, 00046 Grottaferrata RM
+<br>
+http://www.locandadellospuntino.com/
+<br>
+Google: 4.6 (177)
+<br>
+Map: https://tinyurl.com/2rsbpdrt
+<br>
+$206 breakfast and parkinga
+<br>
+0:30 from FCO
+<br>
+4:30 to Bari
+   ]]></description>
+   <Point>
+    <coordinates>12.66839,41.78875,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>B&amp;B Il Nido del Falco</name>
+   <description><![CDATA[
++39 335 465 323
+<br>
+Via Spiaggia del Lago, 24/c, Strada Privata, 00073 Castel Gandolfo RM
+<br>
+https://www.ilnidodelfalcobnb.it/
+<br>
+Google: 4.9 (65)
+<br>
+Map: https://tinyurl.com/yw2bt8xh
+<br>
+145 EU with tax for double room with breakfast
+<br>
+Breakfast in your room a bit odd
+<br>
+0:30 from FCO
+<br>
+4:40 to Bari
+<br>
++25 min
+<br>
+Nice, near lake near FCO
+   ]]></description>
+   <Point>
+    <coordinates>12.66603,41.76166,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villa Floridiana</name>
+   <description><![CDATA[
++39 0775 774072
+<br>
+Via Casilina, 03012 Anagni FR
+<br>
+http://villafloridiana.com/
+<br>
+Google: 4.5 (512)
+<br>
+Map: https://tinyurl.com/ytt8bp92
+<br>
+8.6 https://www.booking.com/hotel/it/villa-floridiana-anagni.html
+<br>
+Close to highway, about an hour from FCO, < 4 hours from BRI
+<br>
+Could be noisy, good restaurant
+<br>
+$128/double room with breakfast
+   ]]></description>
+   <Point>
+    <coordinates>13.156,41.72555,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Agriturismo La Tenuta del Campo di Sopra</name>
+   <description><![CDATA[
++39 328 723 3212
+<br>
+Via Ferruccia, 03010 Ferruccia FR
+<br>
+https://agriturismo-la-tenuta-del-campo.albergo.top/
+<br>
+Google: 4.7 (231)
+<br>
+Map: https://tinyurl.com/bpabdjc2
+<br>
+9.3 https://www.booking.com/hotel/it/la-tenuta-del-campo-di-sopra.html
+<br>
+1:11 from FCO
+<br>
+$75 double room with breakfast (Italian)
+<br>
+Interesting beamed rooms
+   ]]></description>
+   <Point>
+    <coordinates>13.26865,41.60996,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>B&amp;B La Perla Frosinone</name>
+   <description><![CDATA[
++39 338 607 8979
+<br>
+Via Centauro, 29, 03100 Frosinone FR
+<br>
+http://la-perla-frosinone.org.es/
+<br>
+Google: 5 (86)
+<br>
+Map: https://tinyurl.com/mudr42t5
+<br>
+1:16 from FCO
+<br>
+3:44 from BRI
+<br>
+$93 large double room with breakfast (Maestrale)
+<br>
+Big house overlooking the countryside (cliffhanger)
+   ]]></description>
+   <Point>
+    <coordinates>13.35049,41.6214,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>The Farm Holiday Ruspante</name>
+   <description><![CDATA[
++39 0775 686750
+<br>
+Contrada Collenuovo, 1, 03020 Castro dei Volsci FR
+<br>
+https://lalocandadelruspante.com/
+<br>
+Google: 4.6 (901)
+<br>
+Map: https://tinyurl.com/mrk63sfm
+<br>
+9.0 https://www.booking.com/hotel/it/la-locanda-del-ruspante.html
+<br>
+$107 double (only want double; the suites look very dark) with breakfast, more than standard ‘Italian’ breakfast, restaurant across the road serves dinner
+<br>
+A little further off the road than others
+<br>
+1:27 from FCO, 3:35 to Bari
+   ]]></description>
+   <Point>
+    <coordinates>13.42205,41.51291,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>The Hill Farm ciociaro</name>
+   <description><![CDATA[
++39 348 564 6467
+<br>
+Via Cese, 13, 03024 Ceprano FR
+<br>
+https://www.agriturismociociaroilcolle.it/
+<br>
+Google: 4.7 (1567)
+<br>
+Map: https://tinyurl.com/u3nkxs5j
+<br>
+9.8 https://www.booking.com/hotel/it/agriturismo-ciociaro-quot-il-colle-quot.html
+<br>
+1:20 from FCO
+<br>
+3:27 to Bari
+<br>
+$91 for double with bunk beds and terrace, with breakfast
+<br>
+Has a restaurant for dinner.  Caters to Americans, big place
+   ]]></description>
+   <Point>
+    <coordinates>13.48103,41.56187,0</coordinates>
+   </Point>
+  </Placemark>
+ </Folder>
+ <Folder>
+  <name>Routes</name>
+ </Folder>
+</Document>
+</kml>

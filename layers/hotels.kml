@@ -1,0 +1,251 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <name>Hotels 1</name>
+ <description>my decription</description>
+ <Folder>
+  <name>Hotels</name>
+  <description>hotels on the Bike Basilicata tour</description>
+  <Placemark>
+   <name>Marè Resort</name>
+   <description><![CDATA[
++39 0883 486411
+<br>
+Piazza Quercia, 8, 70059 Trani BT
+<br>
+http://www.mareresort.it/it/home/
+<br>
+Google: 4.4 (234)
+<br>
+Map: https://tinyurl.com/98ck9zzd
+<br>
+May 3-4 (Sun-Mon)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>16.42222,41.27722,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Masseria Torre Di Nebbia</name>
+   <description><![CDATA[
++39 348 526 6348
+<br>
+Contrada Torre Di Nebbia, 70033 Corato BA
+<br>
+http://www.masseriatorredinebbia.it/
+<br>
+Google: 4.5 (754)
+<br>
+Map: https://tinyurl.com/ycx9h2h4
+<br>
+May 5 (Tue)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>16.28627,41.03416,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Il Borgo B&amp;B - Gravina in Puglia</name>
+   <description><![CDATA[
++39 080 237 1355
+<br>
+Via Borgo, 3, 70024 Gravina in Puglia BA
+<br>
+http://www.ilborgobandb.it/
+<br>
+Google: 4.7 (124)
+<br>
+Map: https://tinyurl.com/4jnyprun
+<br>
+May 6 (Wed)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>16.41587,40.81707,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Corte San Pietro</name>
+   <description><![CDATA[
++39 0835 310813
+<br>
+Via Bruno Buozzi, 97/b, 75100 Matera MT
+<br>
+https://www.cortesanpietro.it/
+<br>
+Google: 4.9 (274)
+<br>
+Map: https://tinyurl.com/2phynrnb
+<br>
+May 7-9 (Thu-Sat)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>16.61118,40.66395,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Abate Masseria &amp; Resort</name>
+   <description><![CDATA[
++39 080 497 8288
+<br>
+Zona F, 83/C, 70015 Noci BA
+<br>
+http://www.abatemasseria.it/
+<br>
+Google: 4.6 (575)
+<br>
+Map: https://tinyurl.com/y3d8k7jt
+<br>
+May 10 (Sun)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>17.12683,40.77884,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Masseria Le Torri</name>
+   <description><![CDATA[
++39 389 966 5701
+<br>
+Strada Comunale le Torri, 591/D, 70044 Polignano a Mare BA
+<br>
+http://www.masserialetorri.com/
+<br>
+Google: 4.7 (205)
+<br>
+Map: https://tinyurl.com/mpyw48rk
+<br>
+May 11-12 (Mon-Tue)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>17.17465,40.96997,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Il Sogno delle Benedettine</name>
+   <description><![CDATA[
++39 376 004 1439
+<br>
+Via Gaspare, V. Alessandro Petrarolo, 9, 72017 Ostuni BR
+<br>
+http://ilsognodellebenedettine.it/
+<br>
+Google: 4.7 (24)
+<br>
+Map: https://tinyurl.com/2d8fan5f
+<br>
+May 13-14 (Wed-Thu)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>17.578,40.73328,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Masseria Bosco</name>
+   <description><![CDATA[
++39 099 970 4099
+<br>
+Via per Erchie, 74020 Avetrana TA
+<br>
+http://www.terrediterre.com/
+<br>
+Google: 4.4 (90)
+<br>
+Map: https://tinyurl.com/2xrart3h
+<br>
+May 15 (Fri)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>17.72016,40.37122,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Relais Corte Palmieri</name>
+   <description><![CDATA[
++39 0833 266814
+<br>
+Via Roncella, 13, 73014 Gallipoli LE
+<br>
+http://www.relaiscortepalmieri.it/
+<br>
+Google: 4.5 (197)
+<br>
+Map: https://tinyurl.com/2ebkrhdh
+<br>
+May 16-17 (Sat-Sun)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>17.97639,40.05567,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Masseria Palane</name>
+   <description><![CDATA[
++39 388 996 6930
+<br>
+Via Trieste, 115, 73053 Castrignano del Capo LE
+<br>
+https://www.masseriapalane.com/
+<br>
+Google: 4.9 (129)
+<br>
+Map: https://tinyurl.com/47pbuz73
+<br>
+May 18-19 (Mon-Tue)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>18.34169,39.8328,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Palazzo De Mori</name>
+   <description><![CDATA[
++39 0836 801088
+<br>
+Palazzo de Mori Bastione dei Pelagi, 73028 Otranto LE
+<br>
+http://www.palazzodemori.it/
+<br>
+Google: 4.7 (177)
+<br>
+Map: https://tinyurl.com/yh5jxnw7
+<br>
+May 20-21 (Wed-Thu)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>18.493,40.14559,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Palazzo Rollo</name>
+   <description><![CDATA[
++39 0832 307152
+<br>
+Via Vittorio Emanuele II, 14, 73100 Lecce LE
+<br>
+http://www.palazzorollo.it/
+<br>
+Google: 4.7 (187)
+<br>
+Map: https://tinyurl.com/askbjm2d
+<br>
+May 22-23 (Fri-Sat)
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>18.16923,40.35254,0</coordinates>
+   </Point>
+  </Placemark>
+ </Folder>
+</Document>
+</kml>

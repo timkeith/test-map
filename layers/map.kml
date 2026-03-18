@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="paddle-blu-circle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>1-star Restaurants</name>
+      <Placemark>
+        <name>Vitantonio Lombardo</name>
+        <description>In Matera,
+€150 (5 courses) to €200 (10 courses)</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>16.61268,40.66737,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Primo Restaurant</name>
+        <description>In Lecce
+€150 (Vegetarian) to €160 (Full Menu)</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>18.17753,40.35259,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quintessenza</name>
+        <description>In Trani
+€90 – €130 (Excellent value for a star)</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>16.41499,41.28143,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa Sgarra</name>
+        <description>In Trani
+€90 – €120</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>16.43429,41.27038,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casamatta Restaurant</name>
+        <description>In Manduria
+</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>17.59946,40.41199,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>High-end Restaurants</name>
+      <Placemark>
+        <name>Osteria Piazzetta Cattedrale</name>
+        <description>In Ostuni
+Modern Apulian
+Price: Around €35 – €50.
+The best table in the White City; incredible local pasta.
+Note: This is considered one of the best bargains in the guide; it feels like a starred meal at a fraction of the price.
+</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>17.57835,40.73425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meraviglioso</name>
+        <description>In Polignano a Mare
+Contemporary Seafood
+Price: Around €90 for a full tasting; €45 – €55 if eating à la carte.
+High-end seafood in a town famous for it.
+</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>17.21719,40.99706,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>L'Antica Locanda</name>
+        <description>In Noci
+Traditional
+Noci is the &quot;town of food&quot;; this spot is famous for local meats.
+</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>17.12268,40.79625,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DolceVita</name>
+        <description>In Gallipoli
+Seafood / View
+Located on the rooftop of Palazzo del Corso with harbor views.
+</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>17.98408,40.05604,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>L'Altro Baffo</name>
+        <description>In Otranto
+Modern Seafood
+Price: €65 (5 courses) to €85 (7 courses).
+Famous for &quot;Carbonara di Pesce&quot; (fish carbonara).
+</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>18.49154,40.14502,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Osteria Sant'Agostino</name>
+        <description>In Gravina in Puglia
+Rustic/Stone
+Price: €35 – €50.
+Very rustic and value-driven.
+Focuses on the &quot;Murgia&quot; flavors (lamb, mushrooms, wild greens).
+</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>16.41602,40.81602,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>L'Antica Locanda</name>
+        <description>In Lecce
+Price: €45 – €60
+Famous for its &quot;succession of appetizers&quot; which can be a meal in itself.
+</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>18.17061,40.35440,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Antichi Sapori</name>
+        <description>In Montegrosso
+Near Castel del Monte
+Price: €50 for a massive, multi-course traditional feast.
+Note: This is a &quot;cult&quot; favorite. There is no menu; you eat what Pietro Zito harvested from the garden that morning.
+</description>
+        <styleUrl>#paddle-blu-circle</styleUrl>
+        <Point>
+          <coordinates>16.14110,41.17231,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Routes</name>
+    </Folder>
+  </Document>
+</kml>

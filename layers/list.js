@@ -13,12 +13,5 @@ const layerFiles = {
   "D12_Santa Maria di Leuca - Otranto": "layers/D12_Santa-Maria-di-Leuca-Otranto.kml?v=5951acda",
   "D5_Avetrana-Sant Isidoro-Gallipoli (ENGLISH)": "layers/D5_Avetrana-Sant-Isidoro-Gallipoli-ENGLISH.kml?v=2af2a918",
   "D6_Gallipoli - Santa Maria di Leuca (Masseria Palane)": "layers/D6_Gallipoli-Santa-Maria-di-Leuca-Masseria-Palane.kml?v=96db789b",
-  "D7_Otranto - Lecce": "layers/D7_Otranto-Lecce.kml?v=517e0510",
-  "Puglia 2026": "layers/_main.kml?v=b3a94621",
-  "Near Termini": "layers/drive.kml?v=37e922d6",
-  "Hotels 1": "layers/hotels.kml?v=034e555f",
-  "1-star Restaurants": "layers/map.kml?v=8a286da5",
-  "Hotels 2": "layers/places.kml?v=4ab1f903",
-  "Bike Routes": "layers/routes.kml?v=408304c5",
-  "Ride With GPS Routes": "layers/rwgps.kml?v=f7218cf0"
+  "D7_Otranto - Lecce": "layers/D7_Otranto-Lecce.kml?v=517e0510"
 };

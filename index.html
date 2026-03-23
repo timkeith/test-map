@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset='utf-8'>
-    <title>My KML Layers Map</title>
+    <title>Puglia, May 2026</title>
     <style>
       #map {
         height: 100vh;
@@ -10,15 +10,18 @@
       }
       #layers {
         position:      absolute;
-        bottom:        10px;
-        left:          10px;
+        bottom:        6px;
+        left:          6px;
         background:    white;
-        padding:       10px;
-        border-radius: 6px;
+        padding:       6px;
+        border-radius: 3px;
         box-shadow:    0 2px 6px rgba(0,0,0,0.3);
         font-family:   sans-serif;
         font-size:     14px;
         z-index:       9999;
+        max-width:     200px;         /* Or whatever limit fits your map */
+        overflow-x:    auto;          /* Shows scrollbar only when needed */
+        white-space:   nowrap;        /* Prevents text from wrapping to a new line */
       }
     </style>
   </head>

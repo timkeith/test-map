@@ -16,5 +16,7 @@ const layerFiles = {
   "D7_Otranto - Lecce": "layers/D7_Otranto-Lecce.kml?v=517e0510",
   "Hotels": "layers/hotels.kml?v=54d87e25",
   "Rome May 2nd": "layers/rome-05-02.kml?v=be29a5f3",
+  "Train: Roma Termini - Trani, May 3": "layers/train-05-03.kml?v=15c45213",
+  "Train: Lecce Stazione - Roma Termini, May 24": "layers/train-05-24.kml?v=46f59974",
   "Train Trips": "layers/train.kml?v=d35c5dfb"
 };

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <Folder>
+  <name>Train Trips</name>
+  <description></description>
+  <Placemark>
+   <name>Train: Roma Termini - Trani</name>
+   <description><![CDATA[
+FR 9511
+   ]]></description>
+   <Style>
+    <LineStyle>
+     <color>ff008000</color>
+     <width>3</width>
+    </LineStyle>
+   </Style>
+   <LineString>
+    <tessellate>1</tessellate>
+    <coordinates>
+12.50158,41.90129,0 14.32832,41.06885,0 14.76951,41.14187,0 15.55559,41.46555,0 16.41778,41.27279,0
+</coordinates>
+   </LineString>
+  </Placemark>
+  <Placemark>
+   <name>Train: Lecce Stazione - Roma Termini</name>
+   <description><![CDATA[
+Frecciargento 8314
+   ]]></description>
+   <Style>
+    <LineStyle>
+     <color>ffff0000</color>
+     <width>3</width>
+    </LineStyle>
+   </Style>
+   <LineString>
+    <tessellate>1</tessellate>
+    <coordinates>
+18.16581,40.34579,0 17.93929,40.63429,0 16.87011,41.11797,0 16.2786,41.31541,0 15.55559,41.46555,0
+14.76951,41.14187,0 14.32832,41.06885,0 12.50158,41.90129,0
+</coordinates>
+   </LineString>
+  </Placemark>
+ </Folder>
+</Document>
+</kml>

@@ -13,5 +13,8 @@ const layerFiles = {
   "D12_Santa Maria di Leuca - Otranto": "layers/D12_Santa-Maria-di-Leuca-Otranto.kml?v=5951acda",
   "D5_Avetrana-Sant Isidoro-Gallipoli (ENGLISH)": "layers/D5_Avetrana-Sant-Isidoro-Gallipoli-ENGLISH.kml?v=2af2a918",
   "D6_Gallipoli - Santa Maria di Leuca (Masseria Palane)": "layers/D6_Gallipoli-Santa-Maria-di-Leuca-Masseria-Palane.kml?v=96db789b",
-  "D7_Otranto - Lecce": "layers/D7_Otranto-Lecce.kml?v=517e0510"
+  "D7_Otranto - Lecce": "layers/D7_Otranto-Lecce.kml?v=517e0510",
+  "Hotels": "layers/hotels.kml?v=54d87e25",
+  "Rome May 2nd": "layers/rome-05-02.kml?v=be29a5f3",
+  "Train Trips": "layers/train.kml?v=d35c5dfb"
 };

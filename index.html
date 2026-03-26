@@ -1,58 +1,31 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <title>Puglia, May 2026</title>
-    <style>
-      #map {
-        height: 100vh;
-        width:  100%;
-      }
-      #layers {
-        position:      absolute;
-        bottom:        6px;
-        left:          6px;
-        background:    white;
-        padding:       6px;
-        padding-bottom:12px;
-        border-radius: 3px;
-        box-shadow:    0 2px 6px rgba(0,0,0,0.3);
-        font-family:   sans-serif;
-        font-size:     14px;
-        z-index:       9999;
-        max-width:     300px;
-        overflow-x:    scroll; /* Shows scrollbar only when needed */
-        white-space:   nowrap; /* Prevents text from wrapping to a new line */
-        scrollbar-width: auto;         /* Ensures the scrollbar has its default thickness */
-        scrollbar-color: #888 #f1f1f1; /* thumb color | track color */
-      }
-      /* Force scrollbar visibility in Chrome, Safari, and Edge */
-      #layers::-webkit-scrollbar {
-        -webkit-appearance: none;
-        height: 7px;           /* Height of the horizontal scrollbar */
-      }
-      #layers::-webkit-scrollbar-thumb {
-        border-radius: 4px;
-        background-color: rgba(0, 0, 0, .5);
-        box-shadow: 0 0 1px rgba(255, 255, 255, .5);
-      }
-      /* Ensure the track (background) is visible */
-      #layers::-webkit-scrollbar-track {
-        background: #f1f1f1;
-        border-radius: 4px;
-      }
-    </style>
-  </head>
+<html lang='en'>
+<head>
+  <meta charset='UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  <title>Interactive Map Layers</title>
+  <title>Puglia, May 2026</title>
+  <link rel='stylesheet' href='style.css'>
+</head>
+<body>
 
-  <body>
+  <div id='sidebar'>
+    <div class='layer-controls'>
+      <button onclick='toggleAllLayers(true)'>Select All</button>
+      <button onclick='toggleAllLayers(false)'>Deselect All</button>
+    </div>
     <div id='layers'></div>
-    <div id='map'></div>
-  </body>
-  <script src='layers/list.js'></script>
-  <script src='js/map.js'></script>
+  </div>
+
+  <div id='map'></div>
+
+  <script src='https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap' async defer></script>
   <script
     src='https://maps.googleapis.com/maps/api/js?key=AIzaSyB3sfpp0u9UForUSTcrZhhPLF1iWxKkXKU&callback=initMap'
     async
     defer
   ></script>
+  <script src='layers/list.js'></script>
+  <script src='map.js'></script>
+</body>
 </html>

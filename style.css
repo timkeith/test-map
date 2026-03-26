@@ -1,0 +1,75 @@
+/* Sidebar Container */
+#layers {
+  font-family: sans-serif;
+  font-size: 14px;
+  padding: 10px;
+  max-width: 300px;
+}
+
+/* Global Buttons */
+.layer-controls {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.layer-controls button {
+  flex: 1;
+  padding: 6px;
+  cursor: pointer;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.layer-controls button:hover {
+  background: #f0f0f0;
+}
+
+/* Tree Structure */
+#layers ul {
+  list-style: none;
+  padding-left: 18px;
+  margin: 4px 0;
+}
+
+#layers li {
+  margin: 2px 0;
+}
+
+/* Folder Styling */
+.folder-label {
+  cursor: pointer;
+  font-weight: bold;
+  display: block;
+  padding: 2px;
+}
+
+.folder-label:hover {
+  background-color: #f9f9f9;
+}
+
+/* The Toggle Arrow */
+.folder-label::before {
+  content: '▼ ';
+  display: inline-block;
+  width: 15px;
+  color: #888;
+  transition: transform 0.2s;
+}
+
+/* State when folder is closed */
+.folder-closed > ul {
+  display: none;
+}
+
+.folder-closed > .folder-label::before {
+  content: '▶ ';
+}
+
+/* Checkbox alignment */
+input[type="checkbox"] {
+  vertical-align: middle;
+  margin-right: 5px;
+}

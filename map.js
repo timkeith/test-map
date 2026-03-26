@@ -1,25 +1,6 @@
 let map;
 let bounds;
 
-// 1. Define your nested data here
-const layerData = [
-  {
-    name: "Environment",
-    children: [
-      { name: "Forests", url: "/kmls/forests.kml" },
-      { name: "Rivers", url: "/kmls/rivers.kml" }
-    ]
-  },
-  {
-    name: "Infrastructure",
-    children: [
-      { name: "Highways", url: "/kmls/highways.kml" },
-      { name: "Power Grid", url: "/kmls/grid.kml" }
-    ]
-  },
-  { name: "Base Map Cities", url: "/kmls/cities.kml" }
-];
-
 function initMap() {
   // Initialize Map
   map = new google.maps.Map(document.getElementById('map'), {
@@ -31,7 +12,7 @@ function initMap() {
   const container = document.getElementById('layers');
 
   // Start building the tree
-  buildTree(layerData, container);
+  buildTree(layers, container);
 }
 
 /**

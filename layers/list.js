@@ -1,6 +1,6 @@
 
 // 1. Define your nested data here
-const layers = [
+const layerData = [
   {
     name: "Train Trips",
     children: [

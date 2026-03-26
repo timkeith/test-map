@@ -12,7 +12,7 @@ function initMap() {
   const container = document.getElementById('layers');
 
   // Start building the tree
-  buildTree(layers, container);
+  buildTree(layerData, container);
 }
 
 /**
@@ -21,6 +21,7 @@ function initMap() {
 function buildTree(data, parentElement) {
   const ul = document.createElement('ul');
 
+  console.log('data:', data);
   data.forEach(item => {
     const li = document.createElement('li');
     const isFolder = !!item.children;

@@ -7,10 +7,10 @@ const layerData = [
       {
         name: "Train: Roma Termini - Trani, May 3",
         url:  "layers/train-05-03.kml?v=15c45213"
-      }
+      },
       {
         name: "Train: Lecce Stazione - Roma Termini, May 24",
-        url:  "layers/train-05-24.kml?v=46f59974",
+        url:  "layers/train-05-24.kml?v=46f59974"
       }
     ]
   }, {

@@ -51,11 +51,9 @@ function buildTree(data, parentElement) {
       };
     } else {
       li.appendChild(labelContainer);
-      const layer = new google.maps.KmlLayer({
-        url:              `${window.location.origin}/${item.url}`,
-        preserveViewport: true,
-        map:              map
-      });
+      url = `${window.location.origin}/${item.url}`,
+      console.log('url:', url);
+      const layer = new google.maps.KmlLayer({ url: url, preserveViewport: true, map: map });
       google.maps.event.addListenerOnce(layer, 'status_changed', () => {
         if (layer.getStatus() === google.maps.KmlLayerStatus.OK) {
           // If this is the first layer to load successfully, center the map

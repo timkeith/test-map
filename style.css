@@ -1,87 +1,108 @@
+/* Reset body to allow full-screen map */
 html, body {
-  height:  100%;
-  margin:  0;
-  padding: 0;
+  height:      100%;
+  margin:      0;
+  padding:     0;
+  overflow:    hidden;
+  font-family: 'Segoe UI', Roboto, sans-serif;
 }
 
+/* The Map fills the entire background */
 #map {
-  flex-grow:  1; /* Fills the rest of the horizontal space */
-  height:     100vh; /* FORCES the map to be the full height of the screen */
-  min-height: 400px; 
+  position: absolute;
+  top:      0;
+  bottom:   0;
+  left:     0;
+  right:    0;
+  z-index:  1; /* Lowest layer */
 }
 
-/* Sidebar Container */
-#layers {
-  font-family: sans-serif;
-  font-size: 14px;
-  padding: 10px;
-  max-width: 300px;
+#sidebar {
+  position: absolute;
+  bottom:   4px;
+  left:     4px;
+  width:    300px;
+  
+  /* Change fixed height to dynamic max-height */
+  height:     auto; 
+  max-height: 80vh; 
+  
+  display:        flex;
+  flex-direction: column; 
+  background:     rgba(255, 255, 255, 0.95);
+  box-shadow:     0 4px 15px rgba(0,0,0,0.3);
+  border-radius:  8px;
+  z-index:        10;
+  border:         1px solid #ccc;
+  
+  /* Prevents the sidebar from "flickering" as it calculates height */
+  overflow: hidden; 
 }
 
-/* Global Buttons */
 .layer-controls {
-  display: flex;
-  gap: 5px;
-  margin-bottom: 10px;
+  flex-shrink:   0; /* Keeps buttons visible even when sidebar is small */
+  padding:       12px;
+  background:    #f1f3f4;
+  border-bottom: 1px solid #ddd;
+  display:       flex;
+  gap:           5px;
 }
 
-.layer-controls button {
-  flex: 1;
-  padding: 6px;
-  cursor: pointer;
-  background: #fff;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 12px;
+#layers {
+  /* Allows the internal list to scroll when max-height is hit */
+  overflow-y:  auto;
+  overflow-x:  auto; 
+  padding:     10px 5px 10px 2px;
+  white-space: nowrap; /* Maintains side-scrolling for long names */
 }
 
-.layer-controls button:hover {
-  background: #f0f0f0;
+/* Remove the gap on the very first list */
+#layers > ul {
+  padding-left: 0 !important;
+  margin-left:  0 !important;
 }
 
-/* Tree Structure */
+/* Control the indentation for nested children only */
 #layers ul {
-  list-style: none;
-  padding-left: 18px;
-  margin: 4px 0;
+  list-style:   none;
+  padding-left: 20px; /* how much children indent */
+  margin:       4px 0;
 }
 
+/* Ensure the list items and labels touch the left edge */
 #layers li {
-  margin: 2px 0;
-}
-
-/* Folder Styling */
-.folder-label {
-  cursor: pointer;
-  font-weight: bold;
+  margin:  0;
+  padding: 2px 0;
   display: block;
-  padding: 2px;
 }
 
-.folder-label:hover {
-  background-color: #f9f9f9;
-}
-
-/* The Toggle Arrow */
-.folder-label::before {
-  content: '▼ ';
+.folder-label, #layers label {
   display: inline-block;
-  width: 15px;
-  color: #888;
-  transition: transform 0.2s;
+  padding: 2px 4px;
+  margin:  0;
+  cursor:  pointer;
 }
 
-/* State when folder is closed */
+/* Ensure the folder toggle still works with the dynamic height */
 .folder-closed > ul {
-  display: none;
+  display: none !important;
+}
+
+.folder-label {
+  cursor:      pointer;
+  font-weight: bold;
+  display:     inline-block; /* Allows it to grow with text for scrolling */
+  padding:     2px 4px;
+}
+
+.folder-label::before {
+  content:   '▼ ';
+  font-size: 10px;
+  color:     #666;
+  display:   inline-block;
+  width:     15px;
 }
 
 .folder-closed > .folder-label::before {
   content: '▶ ';
-}
-
-/* Checkbox alignment */
-input[type="checkbox"] {
-  vertical-align: middle;
-  margin-right: 5px;
 }

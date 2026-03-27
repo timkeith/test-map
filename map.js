@@ -15,7 +15,6 @@ function initMap() {
 
 function buildTree(data, parentElement) {
   const baseUrl = new URL('./', window.location.href).href;
-  console.log('baseUrl:', baseUrl);
   const ul = document.createElement('ul');
   data.forEach(item => {
     const li = document.createElement('li');
@@ -54,7 +53,6 @@ function buildTree(data, parentElement) {
     } else {
       li.appendChild(labelContainer);
       const url = new URL(item.url, baseUrl).href;
-      console.log('url:', url);
       const layer = new google.maps.KmlLayer({ url: url, preserveViewport: true, map: map });
       google.maps.event.addListenerOnce(layer, 'status_changed', () => {
         if (layer.getStatus() === google.maps.KmlLayerStatus.OK) {

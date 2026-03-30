@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <Folder>
+  <name>High-end Restaurants</name>
+  <description>Michelin Selected and Bib Gourmand</description>
+  <Placemark>
+   <name>Osteria Piazzetta Cattedrale</name>
+   <description><![CDATA[
+Modern Apulian
+<br>
+Price: Around €35 – €50.
+<br>
+The best table in the White City; incredible local pasta.
+<br>
+Note: This is considered one of the best bargains in the guide; it feels like a starred meal at a fraction of the price.
+<br>
++39 0831 335026
+<br>
+http://www.piazzettacattedrale.it/
+<br>
+Largo Arcid Teodoro Trinchera, 7, 72017 Ostuni BR
+<br>
+Google: 4.4 (477) $$$
+<br>
+Map: https://tinyurl.com/yyjcfh7k
+   ]]></description>
+   <styleUrl>#paddle-grn-circle</styleUrl>
+   <Point>
+    <coordinates>17.57835,40.73425,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ristorante Meraviglioso – Ristorante di pesce a Polignano a Mare</name>
+   <description><![CDATA[
+Contemporary Seafood
+<br>
+Price: Around €90 for a full tasting; €45 – €55 if eating à la carte.
+<br>
+High-end seafood in a town famous for it.
+<br>
++39 080 424 9509
+<br>
+http://www.ristorantemeraviglioso.it/
+<br>
+Largo Gelso, 16, 70044 Polignano a Mare BA
+<br>
+Google: 4.1 (1279) $$
+<br>
+Map: https://tinyurl.com/ykpwz3pj
+   ]]></description>
+   <styleUrl>#paddle-grn-circle</styleUrl>
+   <Point>
+    <coordinates>17.21719,40.99706,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>L&#x27;Antica Locanda</name>
+   <description><![CDATA[
+Traditional
+<br>
+Noci is the "town of food"; this spot is famous for local meats.
+<br>
++39 080 497 2460
+<br>
+http://www.pasqualefatalino.it/
+<br>
+Via Spirito Santo, 49, 70015 Noci BA
+<br>
+Google: 4.7 (1671) $$
+<br>
+Map: https://tinyurl.com/fmntandk
+   ]]></description>
+   <styleUrl>#paddle-grn-circle</styleUrl>
+   <Point>
+    <coordinates>17.12268,40.79625,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>DolceVita - Rooftop Bar &amp; Restaurant</name>
+   <description><![CDATA[
+Seafood / View
+<br>
+Located on the rooftop of Palazzo del Corso with harbor views.
+<br>
++39 328 037 6663
+<br>
+https://www.ristorantedolcevita.it/
+<br>
+Corso Roma, 145, 73014 Gallipoli LE
+<br>
+Google: 4.4 (133)
+<br>
+Map: https://tinyurl.com/mr28hx5h
+   ]]></description>
+   <styleUrl>#paddle-grn-circle</styleUrl>
+   <Point>
+    <coordinates>17.98408,40.05604,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>L'Altro Baffo Ristorante</name>
+   <description><![CDATA[
+Modern Seafood
+<br>
+Price: &euro;65 (5 courses) to &euro;85 (7 courses).
+<br>
+Famous for "Carbonara di Pesce" (fish carbonara).
+<br>
++39 0836 801636
+<br>
+http://www.laltrobaffo.com/
+<br>
+Via Cenobio Basiliano, 23, 73028 Otranto LE
+<br>
+Google: 4.4 (809) $$
+<br>
+Map: https://tinyurl.com/bddx3w54
+   ]]></description>
+   <styleUrl>#paddle-grn-circle</styleUrl>
+   <Point>
+    <coordinates>18.49154,40.14502,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Osteria Sant&#x27;Agostino</name>
+   <description><![CDATA[
+Rustic/Stone
+<br>
+Price: €35 – €50.
+<br>
+Very rustic and value-driven.
+<br>
+Focuses on the "Murgia" flavors (lamb, mushrooms, wild greens).
+<br>
++39 080 969 8809
+<br>
+Corso Vittorio Emanuele, 12, 70024 Gravina in Puglia BA
+<br>
+Google: 4.6 (1089) $$
+<br>
+Map: https://tinyurl.com/4k8bhh73
+   ]]></description>
+   <styleUrl>#paddle-grn-circle</styleUrl>
+   <Point>
+    <coordinates>16.41602,40.81602,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ristorante Pizzeria Antica Locanda 1899</name>
+   <description><![CDATA[
+Price: €45 – €60
+<br>
+Famous for its "succession of appetizers" which can be a meal in itself.
+<br>
++39 339 318 3997
+<br>
+Via Segine, 73029 Vernole LE
+<br>
+Google: 4.4 (552) $$
+<br>
+Map: https://tinyurl.com/568px66t
+   ]]></description>
+   <styleUrl>#paddle-grn-circle</styleUrl>
+   <Point>
+    <coordinates>18.30559,40.28526,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Antichi Sapori Montegrosso</name>
+   <description><![CDATA[
+Near Castel del Monte
+<br>
+Price: €50 for a massive, multi-course traditional feast.
+<br>
+Note: This is a "cult" favorite. There is no menu; you eat what Pietro Zito harvested from the garden that morning.
+<br>
++39 0883 569529
+<br>
+http://www.pietrozito.it/
+<br>
+Piazza Sant'Isidoro, 10, 76123 Montegrosso BT
+<br>
+Google: 4.8 (1826) $$
+<br>
+Map: https://tinyurl.com/f5pp8cw6
+   ]]></description>
+   <styleUrl>#paddle-grn-circle</styleUrl>
+   <Point>
+    <coordinates>16.1411,41.17231,0</coordinates>
+   </Point>
+  </Placemark>
+ </Folder>
+ <Style id="paddle-grn-circle">
+  <IconStyle>
+   <Icon>
+    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
+   </Icon>
+  </IconStyle>
+ </Style>
+</Document>
+</kml>

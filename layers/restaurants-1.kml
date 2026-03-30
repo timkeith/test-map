@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <Folder>
+  <name>Michelin 1-star</name>
+  <description></description>
+  <Placemark>
+   <name>Vitantonio Lombardo Ristorante</name>
+   <description><![CDATA[
+€150 (5 courses) to €200 (10 courses)
+<br>
++39 0835 335475
+<br>
+https://www.vlristorante.it/
+<br>
+Via Madonna delle Virtù, 13, 75100 Matera MT
+<br>
+Google: 4.7 (574) $$$$
+<br>
+Map: https://tinyurl.com/3xewway8
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>16.61268,40.66737,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Primo Restaurant</name>
+   <description><![CDATA[
+€150 (Vegetarian) to €160 (Full Menu)
+<br>
++39 0832 243802
+<br>
+http://www.primorestaurant.it/
+<br>
+Via 47 Reggimento Fanteria, 7, 73100 Lecce LE
+<br>
+Google: 4.5 (320)
+<br>
+Map: https://tinyurl.com/392dn5r3
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>18.17753,40.35259,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Quintessenza</name>
+   <description><![CDATA[
+€90 – €130 (Excellent value for a star)
+<br>
++39 0883 880948
+<br>
+http://www.quintessenzaristorante.it/
+<br>
+Via Lionelli, 62, 76125 Trani BT
+<br>
+Google: 4.8 (937) $$$
+<br>
+Map: https://tinyurl.com/3vmd4yhr
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>16.41499,41.28143,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Casa Sgarra Ristorante</name>
+   <description><![CDATA[
+€90 – €120
+<br>
++39 349 186 7499
+<br>
+https://casasgarra.it/
+<br>
+Lungomare Cristoforo Colombo, 114, 76125 Trani BT
+<br>
+Google: 4.9 (551)
+<br>
+Map: https://tinyurl.com/4rxhwj9y
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>16.43429,41.27038,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Casamatta Restaurant</name>
+   <description><![CDATA[
++39 351 830 3537
+<br>
+https://www.viniliaresort.com/it/ristorante-stellato-casamatta-taranto
+<br>
+      Contrada Ciracì, 74024 Manduria TA
+<br>
+      Google: 4.6 (132)
+<br>
+      Map: https://tinyurl.com/bdsv2c24
+   ]]></description>
+   <styleUrl>#paddle-blu-circle</styleUrl>
+   <Point>
+    <coordinates>17.59946,40.41199,0</coordinates>
+   </Point>
+  </Placemark>
+ </Folder>
+ <Style id="paddle-blu-circle">
+  <IconStyle>
+   <Icon>
+    <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+   </Icon>
+  </IconStyle>
+ </Style>
+</Document>
+</kml>

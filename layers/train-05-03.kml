@@ -2,10 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>Train: Roma Termini - Trani, May 3</name>
+  <name>Termini - Trani, May 3</name>
   <description></description>
   <Placemark>
-   <name>Train: Roma Termini - Trani</name>
+   <name>Roma Termini - Trani</name>
    <description><![CDATA[
 FR 9511
    ]]></description>

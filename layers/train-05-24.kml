@@ -2,10 +2,10 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>Train: Lecce Stazione - Roma Termini, May 24</name>
+  <name>Lecce Stazione - Roma, May 24</name>
   <description></description>
   <Placemark>
-   <name>Train: Lecce Stazione - Roma Termini</name>
+   <name>Lecce Stazione - Roma Termini</name>
    <description><![CDATA[
 Frecciargento 8314
    ]]></description>

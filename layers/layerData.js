@@ -11,12 +11,12 @@ const layerData = [
     "name": "Train",
     "children": [
       {
-        "name": "Train: Termini - Trani, May 3",
-        "url": "train-05-03.kml?v=c22f5050"
+        "name": "Termini - Trani, May 3",
+        "url": "train-05-03.kml?v=c9240542"
       },
       {
-        "name": "Train: Stazione - Roma, May 24",
-        "url": "train-05-24.kml?v=0b3a4533"
+        "name": "Lecce Stazione - Roma, May 24",
+        "url": "train-05-24.kml?v=8af30155"
       }
     ]
   },
@@ -25,11 +25,11 @@ const layerData = [
     "children": [
       {
         "name": "Michelin 1-star",
-        "url": "restaurants-1.kml?v=a0298fb2"
+        "url": "restaurants-1.kml?v=8c210f3d"
       },
       {
         "name": "High-end Restaurants",
-        "url": "restaurants-2.kml?v=a96b62f1"
+        "url": "restaurants-2.kml?v=41611f87"
       }
     ]
   },

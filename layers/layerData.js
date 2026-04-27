@@ -1,11 +1,11 @@
 const layerData = [
   {
     "name": "Rome May 2nd",
-    "url": "rome-05-02.kml?v=f875000e"
+    "url": "rome-05-02.kml?v=4e4fa613"
   },
   {
     "name": "Hotels",
-    "url": "hotels.kml?v=41f74bf2"
+    "url": "hotels.kml?v=a9131e73"
   },
   {
     "name": "Train",
@@ -13,11 +13,11 @@ const layerData = [
     "children": [
       {
         "name": "Roma - Trani, May 3",
-        "url": "train-05-03.kml?v=fd46b5b3"
+        "url": "train-05-03.kml?v=3c18aa79"
       },
       {
         "name": "Lecce Stazione - Roma, May 25",
-        "url": "train-05-25.kml?v=176ac3aa"
+        "url": "train-05-25.kml?v=4cfd939f"
       }
     ]
   },
@@ -27,19 +27,19 @@ const layerData = [
     "children": [
       {
         "name": "Michelin 1-star",
-        "url": "restaurants-1.kml?v=305865d5"
+        "url": "restaurants-1.kml?v=6ed4fcce"
       },
       {
-        "name": "High-end Restaurants",
-        "url": "restaurants-2.kml?v=9ee2c2fe"
+        "name": "Michelin recommended",
+        "url": "restaurants-2.kml?v=9b1823dc"
       },
       {
-        "name": "Bike Basilicata",
-        "url": "restaurants-4.kml?v=10d8fd4f"
+        "name": "Bike Basilicata recommendations",
+        "url": "restaurants-4.kml?v=ecbbe9a2"
       },
       {
-        "name": "Others",
-        "url": "restaurants-3.kml?v=440b4585"
+        "name": "From Google",
+        "url": "restaurants-5.kml?v=28123f6d"
       }
     ]
   },

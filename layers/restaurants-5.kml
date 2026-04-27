@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <Folder>
+  <name>From Google</name>
+  <description>Well-rated on google</description>
+  <Placemark>
+   <name>LAB 57 Bottega Gastronomica</name>
+   <description><![CDATA[
++39 0883 411339
+<br>
+      Corso Matteo Renato Imbriani, 34, 76125 Trani BT
+<br>
+      Google: 4.9 (92) · €30 - €40
+<br>
+      Map: https://tinyurl.com/4swnu4y9
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.42294,41.27356,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Moselli Restaurant</name>
+   <description><![CDATA[
++39 0883 677751
+<br>
+https://moselliristorantetrani.it/
+<br>
+      Via Nigrò, 37, 76125 Trani BT
+<br>
+      Google: 4.8 (255) · €40 - €50
+<br>
+      Map: https://tinyurl.com/sxhcmnzy
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.41465,41.27797,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Memento Ristorante</name>
+   <description><![CDATA[
++39 0883 010233
+<br>
+https://www.mementoristorante.it/
+<br>
+      Via Ognissanti, 121, 76125 Trani BT
+<br>
+      Google: 4.8 (215) · €40 - €90
+<br>
+      Map: https://tinyurl.com/yuhsz793
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.41941,41.27743,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Trattoria La Casalinga</name>
+   <description><![CDATA[
++39 392 415 8538
+<br>
+      Via M. Pagano, 172, 76125 Trani BT
+<br>
+      Google: 4.7 (443) · €30 - €40
+<br>
+      Map: https://tinyurl.com/4jr85xd6
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.41819,41.27726,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Le Lampare al Fortino</name>
+   <description><![CDATA[
++39 0883 480308
+<br>
+http://www.lelamparealfortino.it/
+<br>
+      Via Tiepolo, sn, 70059 Trani BT
+<br>
+      Google: 4.7 (1035) · €100 +
+<br>
+      Map: https://tinyurl.com/43umw2bb
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.42203,41.28044,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Quintessenza</name>
+   <description><![CDATA[
++39 0883 880948
+<br>
+http://www.quintessenzaristorante.it/
+<br>
+      Via Lionelli, 62, 76125 Trani BT
+<br>
+      Google: 4.8 (940) · €100 +
+<br>
+      Map: https://tinyurl.com/3vmd4yhr
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.41499,41.28143,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Mānima - Osteria</name>
+   <description><![CDATA[
++39 388 587 8998
+<br>
+http://www.manima.it/
+<br>
+dinner only
+<br>
+      Via S. Giorgio, 16, 76125 Trani BT
+<br>
+      Google: 4.7 (405) · €30 - €40
+<br>
+      Map: https://tinyurl.com/4wzpe8ty
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.42232,41.27767,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ristorante Fefino Cucina Naturale a Trani</name>
+   <description><![CDATA[
++39 338 424 3365
+<br>
+https://www.fefino.it/
+<br>
+      Via M. Pagano, 176/178, 76125 Trani BT
+<br>
+      Google: 4.9 (304) · €20 - €30
+<br>
+      Map: https://tinyurl.com/3whep93a
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.41834,41.27725,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Queenpuglia</name>
+   <description><![CDATA[
++39 353 322 3425
+<br>
+https://www.queenpuglia.com/
+<br>
+      Via S. Giorgio, 5, 76125 Trani BT
+<br>
+      Google: 4.9 (443) · €10 - €20
+<br>
+      Map: https://tinyurl.com/zm9mcf95
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.42248,41.27749,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>O&#x27;Cicciobello</name>
+   <description><![CDATA[
++39 334 346 3767
+<br>
+      Piazza Campo dei Longobardi, 76125 Trani BT
+<br>
+      Google: 4.8 (21) · €10 - €20
+<br>
+      Map: https://tinyurl.com/3c9krpur
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.41883,41.27794,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Mómó Masseria Urbana</name>
+   <description><![CDATA[
++39 328 885 3850
+<br>
+https://linktr.ee/momomasseriaurbana
+<br>
+      Piazza Gradenigo, 5, 76125 Trani BT
+<br>
+      Google: 4.8 (121) · €20 - €30
+<br>
+      Map: https://tinyurl.com/5c4t2wkc
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>16.41443,41.27921,0</coordinates>
+   </Point>
+  </Placemark>
+ </Folder>
+
+    <Style id='paddle-wht-circle-RoyalBlue'>
+      <IconStyle>
+        <color>ffe16941</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
+</Document>
+</kml>

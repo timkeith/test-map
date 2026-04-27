@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>High-end Restaurants</name>
+  <name>Michelin recommended</name>
   <description>Michelin Selected and Bib Gourmand</description>
   <Placemark>
    <name>Osteria Piazzetta Cattedrale</name>
@@ -21,7 +21,7 @@ http://www.piazzettacattedrale.it/
 <br>
 Largo Arcid Teodoro Trinchera, 7, 72017 Ostuni BR
 <br>
-Google: 4.4 (477) $$$
+Google: 4.4 (480) · €30 - €80
 <br>
 Map: https://tinyurl.com/yyjcfh7k
    ]]></description>
@@ -45,7 +45,7 @@ http://www.ristorantemeraviglioso.it/
 <br>
 Largo Gelso, 16, 70044 Polignano a Mare BA
 <br>
-Google: 4.1 (1281) $$
+Google: 4.1 (1288) $$
 <br>
 Map: https://tinyurl.com/ykpwz3pj
    ]]></description>
@@ -67,7 +67,7 @@ http://www.pasqualefatalino.it/
 <br>
 Via Spirito Santo, 49, 70015 Noci BA
 <br>
-Google: 4.7 (1675) $$
+Google: 4.7 (1679) · €30 - €40
 <br>
 Map: https://tinyurl.com/fmntandk
    ]]></description>
@@ -89,7 +89,7 @@ https://www.ristorantedolcevita.it/
 <br>
 Corso Roma, 145, 73014 Gallipoli LE
 <br>
-Google: 4.4 (134)
+Google: 4.4 (134) · €40 - €90
 <br>
 Map: https://tinyurl.com/mr28hx5h
    ]]></description>
@@ -115,7 +115,7 @@ http://www.laltrobaffo.com/
 <br>
 Via Cenobio Basiliano, 23, 73028 Otranto LE
 <br>
-Google: 4.4 (810) $$
+Google: 4.4 (812) · €40 - €90
 <br>
 Map: https://tinyurl.com/bddx3w54
    ]]></description>
@@ -139,7 +139,7 @@ Focuses on the "Murgia" flavors (lamb, mushrooms, wild greens).
 <br>
 Corso Vittorio Emanuele, 12, 70024 Gravina in Puglia BA
 <br>
-Google: 4.6 (1089) $$
+Google: 4.6 (1093) · €20 - €30
 <br>
 Map: https://tinyurl.com/4k8bhh73
    ]]></description>
@@ -149,23 +149,25 @@ Map: https://tinyurl.com/4k8bhh73
    </Point>
   </Placemark>
   <Placemark>
-   <name>Ristorante Pizzeria Antica Locanda 1899</name>
+   <name>L&#x27;Antica Locanda</name>
    <description><![CDATA[
 Price: &euro;45 - &euro;60
 <br>
 Famous for its "succession of appetizers" which can be a meal in itself.
 <br>
-+39 339 318 3997
++39 080 497 2460
 <br>
-Via Segine, 73029 Vernole LE
+http://www.pasqualefatalino.it/
 <br>
-Google: 4.4 (552) $$
+Via Spirito Santo, 49, 70015 Noci BA
 <br>
-Map: https://tinyurl.com/568px66t
+Google: 4.7 (1679) · €30 - €40
+<br>
+Map: https://tinyurl.com/fmntandk
    ]]></description>
    <styleUrl>#paddle-wht-circle-DeepSkyBlue</styleUrl>
    <Point>
-    <coordinates>18.30559,40.28526,0</coordinates>
+    <coordinates>17.12268,40.79625,0</coordinates>
    </Point>
   </Placemark>
   <Placemark>
@@ -183,7 +185,7 @@ http://www.pietrozito.it/
 <br>
 Piazza Sant'Isidoro, 10, 76123 Montegrosso BT
 <br>
-Google: 4.8 (1831) $$
+Google: 4.8 (1839) · €40 - €50
 <br>
 Map: https://tinyurl.com/f5pp8cw6
    ]]></description>

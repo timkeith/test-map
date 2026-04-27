@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>Bike Basilicata</name>
+  <name>Bike Basilicata recommendations</name>
   <description>recommendations from their trip notes</description>
   <Placemark>
    <name>Pescaria - Trani</name>
@@ -15,7 +15,7 @@ https://www.pescaria.it/
 <br>
 Via Cavour, 39, 76125 Trani BT
 <br>
-Google: 4.3 (1041) $$
+Google: 4.3 (1046) · €10 - €20
 <br>
 Map: https://tinyurl.com/2rz7vpvp
    ]]></description>
@@ -35,7 +35,7 @@ https://labanchinatrani.it/ristorante.html
 <br>
 Via Banchina Al Porto, 16, 76125 Trani BT
 <br>
-Google: 4.3 (1173) $$
+Google: 4.3 (1174) · €30 - €70
 <br>
 Map: https://tinyurl.com/mukdx38x
    ]]></description>
@@ -53,7 +53,7 @@ http://www.corteinfiore.it/
 <br>
       Via Ognissanti, 18, 76125 Trani BT
 <br>
-      Google: 4.7 (1531) $$$
+      Google: 4.7 (1533) · €50 - €100
 <br>
       Map: https://tinyurl.com/43a3749f
    ]]></description>
@@ -71,7 +71,7 @@ https://mymenuweb.com/it/restaurants/967569/?utm_source=google_profile&utm_mediu
 <br>
       Via Statuti Marittimi, 48/50, 76125 Trani BT
 <br>
-      Google: 4.6 (1016) $$$
+      Google: 4.6 (1017) · €40 - €90
 <br>
       Map: https://tinyurl.com/4639mbpb
    ]]></description>
@@ -109,6 +109,8 @@ in our hotel
 <br>
 http://vinborgo.it/
 <br>
+dinner only
+<br>
 Via Angelo Raffaele Corrado, 3, 70024 Gravina in Puglia BA
 <br>
 Google: 4.5 (155)
@@ -131,7 +133,7 @@ http://www.pizzeriaalvecchiocrapo.it/
 <br>
 Via Civita, 84, 70024 Gravina in Puglia BA
 <br>
-Google: 4.5 (1163) $$
+Google: 4.5 (1164) · €10 - €20
 <br>
 Map: https://tinyurl.com/2wtszxhu
    ]]></description>
@@ -147,9 +149,11 @@ pizza
 <br>
 +39 080 326 4394
 <br>
+dinner only
+<br>
 Viale Orsini, 17 19 21, 70024 Gravina in Puglia BA
 <br>
-Google: 4.3 (85)
+Google: 4.3 (85) · €10 - €20
 <br>
 Map: https://tinyurl.com/2z9pfpfw
    ]]></description>
@@ -167,7 +171,7 @@ https://www.trattoriaziarosa.com/
 <br>
       Via Guglielmo Marconi, 18, 70024 Gravina in Puglia BA
 <br>
-      Google: 4.3 (829) $$
+      Google: 4.3 (830) · €20 - €30
 <br>
       Map: https://tinyurl.com/47awxf73
    ]]></description>
@@ -185,7 +189,7 @@ http://sottofondogustoteca.it/
 <br>
       Calata Grotte S. Michele, 45, 70024 Gravina in Puglia BA
 <br>
-      Google: 4.4 (835) $$
+      Google: 4.4 (837) · €20 - €30
 <br>
       Map: https://tinyurl.com/3rpccbdu
    ]]></description>
@@ -203,7 +207,7 @@ https://www.trattoriailcardoncello.it/
 <br>
       Corso Giuseppe di Vittorio, 22, 70024 Gravina in Puglia BA
 <br>
-      Google: 4.4 (988) $$
+      Google: 4.4 (990) · €20 - €40
 <br>
       Map: https://tinyurl.com/3muhxmns
    ]]></description>
@@ -221,7 +225,7 @@ https://lamurgiana.it/
 <br>
       Via XXIV Maggio, 25, 70024 Gravina in Puglia BA
 <br>
-      Google: 4.5 (1343) $$
+      Google: 4.5 (1344) · €20 - €30
 <br>
       Map: https://tinyurl.com/4w2ntcp6
    ]]></description>
@@ -241,7 +245,7 @@ https://www.digesu.it/
 <br>
 Via Bari, 14, 70022 Altamura BA
 <br>
-Google: 4.3 (257)
+Google: 4.3 (257) · €1 - €10
 <br>
 Map: https://tinyurl.com/bdfe7xvp
    ]]></description>
@@ -251,23 +255,21 @@ Map: https://tinyurl.com/bdfe7xvp
    </Point>
   </Placemark>
   <Placemark>
-   <name>Forno Antico Santa Chiara</name>
+   <name>Monastery of St. Clare</name>
    <description><![CDATA[
 bakery
 <br>
-+39 329 152 4177
++39 080 314 1386
 <br>
-https://www.facebook.com/FornoAnticoS.Chiara/?ref=settings
+Via Santa Chiara, 2, 70022 Altamura BA
 <br>
-Via Luca Martucci, 10, 70022 Altamura BA
+Google: 4.5 (93)
 <br>
-Google: 4.3 (1227) $$
-<br>
-Map: https://tinyurl.com/4cknb25u
+Map: https://tinyurl.com/3vyh4jc5
    ]]></description>
    <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
    <Point>
-    <coordinates>16.55428,40.82697,0</coordinates>
+    <coordinates>16.55429,40.82717,0</coordinates>
    </Point>
   </Placemark>
   <Placemark>
@@ -297,7 +299,7 @@ http://www.madamegiulia.it/
 <br>
 Via D'Addozio, 48, 75100 Matera MT
 <br>
-Google: 4.6 (636) $$
+Google: 4.6 (637) · €20 - €40
 <br>
 Map: https://tinyurl.com/ycyr2pu9
    ]]></description>
@@ -317,7 +319,7 @@ http://www.lagattabuia.com/
 <br>
 Via delle Beccherie, 90/92, 75100 Matera MT
 <br>
-Google: 4.4 (752) $$
+Google: 4.4 (753) · €30 - €80
 <br>
 Map: https://tinyurl.com/bdez35v6
    ]]></description>
@@ -335,7 +337,7 @@ https://www.sangiovanniosteria.com/
 <br>
       Via San Biagio, 27/F, 75100 Matera MT
 <br>
-      Google: 4.4 (346)
+      Google: 4.4 (347) · €30 - €40
 <br>
       Map: https://tinyurl.com/mwtr2dpv
    ]]></description>
@@ -353,7 +355,7 @@ https://www.morganristorante.it/
 <br>
       Via Bruno Buozzi, 2, 75100 Matera MT
 <br>
-      Google: 4.2 (1579) $$
+      Google: 4.2 (1582) · €20 - €30
 <br>
       Map: https://tinyurl.com/ychjubh3
    ]]></description>
@@ -371,7 +373,7 @@ https://www.lalopa.com/
 <br>
       Via Bruno Buozzi, 13, 75100 Matera MT
 <br>
-      Google: 4.6 (1580) $$
+      Google: 4.6 (1584) · €30 - €40
 <br>
       Map: https://tinyurl.com/yfcj9de6
    ]]></description>
@@ -389,7 +391,7 @@ https://retrobottegamatera.it/
 <br>
       Via Bruno Buozzi, 11, 75100 Matera MT
 <br>
-      Google: 5 (77)
+      Google: 5 (78) · €30 - €40
 <br>
       Map: https://tinyurl.com/34uw8u3m
    ]]></description>
@@ -409,7 +411,7 @@ http://www.zipacafe.com/
 <br>
 Via Madonna dell'Idris, 15, 75100 Matera MT
 <br>
-Google: 4.7 (925) $$
+Google: 4.7 (930) · €10 - €20
 <br>
 Map: https://tinyurl.com/bdefuzvu
    ]]></description>
@@ -485,7 +487,7 @@ https://www.facebook.com/salotto.gioiadelcolle
 <br>
 Via Roma, 19, 70023 Gioia del Colle BA
 <br>
-Google: 4.4 (379) $$
+Google: 4.4 (379) · €10 - €20
 <br>
 Map: https://tinyurl.com/yeysneya
    ]]></description>
@@ -503,7 +505,7 @@ http://www.pasqualefatalino.it/
 <br>
       Via Spirito Santo, 49, 70015 Noci BA
 <br>
-      Google: 4.7 (1679) $$
+      Google: 4.7 (1679) · €30 - €40
 <br>
       Map: https://tinyurl.com/fmntandk
    ]]></description>
@@ -521,7 +523,7 @@ https://www.dimoraintini.com/ristorante/
 <br>
       Via S. Domenico, 16, 70015 Noci BA
 <br>
-      Google: 4.7 (113)
+      Google: 4.7 (117) · €30 - €60
 <br>
       Map: https://tinyurl.com/2e2x23cm
    ]]></description>
@@ -539,7 +541,7 @@ https://www.pescaria.it/
 <br>
       Piazza Aldo Moro, 6/8, 70044 Polignano a Mare BA
 <br>
-      Google: 4.3 (15023) $$
+      Google: 4.3 (15024) · €10 - €20
 <br>
       Map: https://tinyurl.com/mr2b6zsa
    ]]></description>
@@ -557,7 +559,7 @@ https://bit.ly/4ffqd8W
 <br>
       Via Roma, 60, 70044 Polignano a Mare BA
 <br>
-      Google: 4.8 (1095) $$
+      Google: 4.8 (1096) · €10 - €20
 <br>
       Map: https://tinyurl.com/yccxnas5
    ]]></description>
@@ -573,7 +575,7 @@ http://www.mintcucinafresca.com/
 <br>
       Via S Benedetto, 32, 70044 Polignano a Mare BA
 <br>
-      Google: 4.9 (757) $$
+      Google: 4.9 (758) · €30 - €50
 <br>
       Map: https://tinyurl.com/3kca7m4w
    ]]></description>
@@ -589,7 +591,7 @@ http://www.mintcucinafresca.com/
 <br>
       Piazza Papa Giovanni Paolo II, 70044 Polignano a Mare BA
 <br>
-      Google: 4.5 (339)
+      Google: 4.5 (339) · €1 - €10
 <br>
       Map: https://tinyurl.com/mknk58cz
    ]]></description>
@@ -607,7 +609,7 @@ https://www.ilsupermagodelgelo.it/
 <br>
       P.zza Giuseppe Garibaldi, 22, 70044 Polignano a Mare BA
 <br>
-      Google: 4.4 (1505) $$
+      Google: 4.4 (1505) · €1 - €10
 <br>
       Map: https://tinyurl.com/4bx4ewj5
    ]]></description>
@@ -625,7 +627,7 @@ https://www.thekingstreetfood.it/
 <br>
       Via Orazio Comes, 31, 70043 Monopoli BA
 <br>
-      Google: 4.6 (2804) $$
+      Google: 4.6 (2804) · €10 - €20
 <br>
       Map: https://tinyurl.com/bhb2avzh
    ]]></description>
@@ -677,7 +679,7 @@ https://www.casatimeo.it/
 <br>
       Via G. Polignani, 19, 70043 Monopoli BA
 <br>
-      Google: 4.8 (106)
+      Google: 4.8 (106) · €10 - €20
 <br>
       Map: https://tinyurl.com/3fcm7fmd
    ]]></description>
@@ -695,7 +697,7 @@ http://www.ilpostoaffianco.com/
 <br>
       Via Gaetano Tanzarella Vitale, 34, 72017 Ostuni BR
 <br>
-      Google: 4.5 (2687) $$
+      Google: 4.5 (2688) · €20 - €30
 <br>
       Map: https://tinyurl.com/mrt2zz9x
    ]]></description>
@@ -713,7 +715,7 @@ https://gaboostuni.it/
 <br>
       Via Gaetano Tanzarella Vitale, 36, 72017 Ostuni BR
 <br>
-      Google: 3.8 (677)
+      Google: 3.8 (677) · €20 - €70
 <br>
       Map: https://tinyurl.com/twpyshkm
    ]]></description>
@@ -731,7 +733,7 @@ http://www.piazzettacattedrale.it/
 <br>
       Largo Arcid Teodoro Trinchera, 7, 72017 Ostuni BR
 <br>
-      Google: 4.4 (477) $$$
+      Google: 4.4 (480) · €30 - €80
 <br>
       Map: https://tinyurl.com/yyjcfh7k
    ]]></description>
@@ -749,7 +751,7 @@ https://www.tavernadellagelosia.it/
 <br>
       Vicolo Tommaso Andriola, 26, 72017 Ostuni BR
 <br>
-      Google: 4.4 (1253) $$
+      Google: 4.4 (1253) · €30 - €50
 <br>
       Map: https://tinyurl.com/yurn356x
    ]]></description>

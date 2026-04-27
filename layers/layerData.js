@@ -23,7 +23,7 @@ const layerData = [
   },
   {
     "name": "Restaurants",
-    "selected": true,
+    "selected": false,
     "children": [
       {
         "name": "Michelin 1-star",
@@ -38,14 +38,14 @@ const layerData = [
         "url": "restaurants-4.kml?v=ecbbe9a2"
       },
       {
-        "name": "From Google",
-        "url": "restaurants-5.kml?v=28123f6d"
+        "name": "Google top-rated",
+        "url": "restaurants-5.kml?v=bdf11b3c"
       }
     ]
   },
   {
     "name": "Bike Routes",
-    "selected": false,
+    "selected": true,
     "children": [
       {
         "name": "01 Trani -Torre di Nebbia",

@@ -2,8 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>From Google</name>
-  <description>Well-rated on google</description>
+  <name>Google top-rated</name>
+  <description></description>
   <Placemark>
    <name>LAB 57 Bottega Gastronomica</name>
    <description><![CDATA[

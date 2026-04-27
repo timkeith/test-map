@@ -39,7 +39,7 @@ const layerData = [
       },
       {
         "name": "Google top-rated",
-        "url": "restaurants-5.kml?v=bdf11b3c"
+        "url": "restaurants-5.kml?v=db752934"
       }
     ]
   },

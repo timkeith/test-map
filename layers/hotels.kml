@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
@@ -23,7 +23,7 @@ Map: https://tinyurl.com/98ck9zzd
 <br>
 Sun, May 3 - Tue, May 5
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>16.42222,41.27722,0</coordinates>
    </Point>
@@ -47,7 +47,7 @@ Map: https://tinyurl.com/ycx9h2h4
 <br>
 Tue, May 5 - Wed, May 6
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>16.28627,41.03416,0</coordinates>
    </Point>
@@ -71,7 +71,7 @@ Map: https://tinyurl.com/4jnyprun
 <br>
 Wed, May 6 - Thu, May 7
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>16.41587,40.81707,0</coordinates>
    </Point>
@@ -97,7 +97,7 @@ Map: https://tinyurl.com/2phynrnb
 <br>
 Thu, May 7 - Sun, May 10
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>16.61118,40.66395,0</coordinates>
    </Point>
@@ -113,7 +113,7 @@ https://www.dimoraintini.com/ristorante/
 <br>
 Via S. Domenico, 16, 70015 Noci BA
 <br>
-Google: 4.7 (111)
+Google: 4.7 (113)
 <br>
 Map: https://tinyurl.com/2e2x23cm
 <br>
@@ -121,7 +121,7 @@ Map: https://tinyurl.com/2e2x23cm
 <br>
 Sun, May 10 - Mon, May 11
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>17.1251,40.79517,0</coordinates>
    </Point>
@@ -145,7 +145,7 @@ Map: https://tinyurl.com/mpyw48rk
 <br>
 Mon, May 11 - Wed, May 13
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>17.17465,40.96997,0</coordinates>
    </Point>
@@ -169,7 +169,7 @@ Map: https://tinyurl.com/2d8fan5f
 <br>
 Wed, May 13 - Fri, May 15
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>17.578,40.73328,0</coordinates>
    </Point>
@@ -185,7 +185,7 @@ http://www.terrediterre.com/
 <br>
 Via per Erchie, 74020 Avetrana TA
 <br>
-Google: 4.4 (90)
+Google: 4.4 (91)
 <br>
 Map: https://tinyurl.com/2xrart3h
 <br>
@@ -193,7 +193,7 @@ Map: https://tinyurl.com/2xrart3h
 <br>
 Fri, May 15 - Sat, May 16
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>17.72016,40.37122,0</coordinates>
    </Point>
@@ -217,7 +217,7 @@ Map: https://tinyurl.com/2ebkrhdh
 <br>
 Sat, May 16 - Mon, May 18
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>17.97639,40.05567,0</coordinates>
    </Point>
@@ -243,7 +243,7 @@ Map: https://tinyurl.com/47pbuz73
 <br>
 Mon, May 18 - Wed, May 20
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>18.34169,39.8328,0</coordinates>
    </Point>
@@ -259,7 +259,7 @@ http://www.palazzodemori.it/
 <br>
 Palazzo de Mori Bastione dei Pelagi, 73028 Otranto LE
 <br>
-Google: 4.7 (178)
+Google: 4.7 (179)
 <br>
 Map: https://tinyurl.com/yh5jxnw7
 <br>
@@ -267,7 +267,7 @@ Map: https://tinyurl.com/yh5jxnw7
 <br>
 Wed, May 20 - Fri, May 22
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>18.493,40.14559,0</coordinates>
    </Point>
@@ -283,7 +283,7 @@ http://www.palazzorollo.it/
 <br>
 Via Vittorio Emanuele II, 14, 73100 Lecce LE
 <br>
-Google: 4.7 (189)
+Google: 4.7 (192)
 <br>
 Map: https://tinyurl.com/askbjm2d
 <br>
@@ -291,18 +291,22 @@ Map: https://tinyurl.com/askbjm2d
 <br>
 Fri, May 22 - Sun, May 24
    ]]></description>
-   <styleUrl>#paddle-red-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>18.16923,40.35254,0</coordinates>
    </Point>
   </Placemark>
  </Folder>
- <Style id="paddle-red-circle">
-  <IconStyle>
-   <Icon>
-    <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
-   </Icon>
-  </IconStyle>
- </Style>
+
+    <Style id='paddle-wht-circle-red'>
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
 </Document>
 </kml>

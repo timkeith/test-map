@@ -1,8 +1,8 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>Lecce Stazione - Roma, May 24</name>
+  <name>Lecce Stazione - Roma, May 25</name>
   <description></description>
   <Placemark>
    <name>Lecce Stazione - Roma Termini</name>
@@ -11,14 +11,14 @@ Frecciargento 8314
    ]]></description>
    <Style>
     <LineStyle>
-     <color>ffff0000</color>
+     <color>ff578b2e</color>
      <width>3</width>
     </LineStyle>
    </Style>
    <LineString>
     <tessellate>1</tessellate>
     <coordinates>
-18.16581,40.34579,0 17.93929,40.63429,0 16.87011,41.11797,0 16.2786,41.31541,0 15.55559,41.46555,0
+18.16581,40.34579,0 17.93929,40.63429,0 16.87011,41.11797,0 16.2786,41.31541,0 15.55562,41.46559,0
 14.76951,41.14187,0 14.32832,41.06885,0 12.50158,41.90129,0
 </coordinates>
    </LineString>

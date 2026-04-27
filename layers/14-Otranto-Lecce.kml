@@ -1,17 +1,17 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>D7_Otranto - Lecce</name>
+  <name>14 Otranto - Lecce</name>
   <description></description>
   <Placemark>
-   <name>D7_Otranto - Lecce</name>
+   <name>14 Otranto - Lecce</name>
    <description><![CDATA[
 distance: 34 miles
 <br>
 elevation: 955 feet
 <br>
-link: https://tinyurl.com/46y592ns
+RWGPS: https://tinyurl.com/bw9pfazu
    ]]></description>
    <Style>
     <LineStyle>

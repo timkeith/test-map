@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
@@ -25,7 +25,7 @@ Google: 4.4 (477) $$$
 <br>
 Map: https://tinyurl.com/yyjcfh7k
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-DeepSkyBlue</styleUrl>
    <Point>
     <coordinates>17.57835,40.73425,0</coordinates>
    </Point>
@@ -45,11 +45,11 @@ http://www.ristorantemeraviglioso.it/
 <br>
 Largo Gelso, 16, 70044 Polignano a Mare BA
 <br>
-Google: 4.1 (1279) $$
+Google: 4.1 (1281) $$
 <br>
 Map: https://tinyurl.com/ykpwz3pj
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-DeepSkyBlue</styleUrl>
    <Point>
     <coordinates>17.21719,40.99706,0</coordinates>
    </Point>
@@ -67,11 +67,11 @@ http://www.pasqualefatalino.it/
 <br>
 Via Spirito Santo, 49, 70015 Noci BA
 <br>
-Google: 4.7 (1671) $$
+Google: 4.7 (1675) $$
 <br>
 Map: https://tinyurl.com/fmntandk
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-DeepSkyBlue</styleUrl>
    <Point>
     <coordinates>17.12268,40.79625,0</coordinates>
    </Point>
@@ -89,11 +89,11 @@ https://www.ristorantedolcevita.it/
 <br>
 Corso Roma, 145, 73014 Gallipoli LE
 <br>
-Google: 4.4 (133)
+Google: 4.4 (134)
 <br>
 Map: https://tinyurl.com/mr28hx5h
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-DeepSkyBlue</styleUrl>
    <Point>
     <coordinates>17.98408,40.05604,0</coordinates>
    </Point>
@@ -119,7 +119,7 @@ Google: 4.4 (810) $$
 <br>
 Map: https://tinyurl.com/bddx3w54
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-DeepSkyBlue</styleUrl>
    <Point>
     <coordinates>18.49154,40.14502,0</coordinates>
    </Point>
@@ -143,7 +143,7 @@ Google: 4.6 (1089) $$
 <br>
 Map: https://tinyurl.com/4k8bhh73
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-DeepSkyBlue</styleUrl>
    <Point>
     <coordinates>16.41602,40.81602,0</coordinates>
    </Point>
@@ -163,7 +163,7 @@ Google: 4.4 (552) $$
 <br>
 Map: https://tinyurl.com/568px66t
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-DeepSkyBlue</styleUrl>
    <Point>
     <coordinates>18.30559,40.28526,0</coordinates>
    </Point>
@@ -183,22 +183,26 @@ http://www.pietrozito.it/
 <br>
 Piazza Sant'Isidoro, 10, 76123 Montegrosso BT
 <br>
-Google: 4.8 (1826) $$
+Google: 4.8 (1831) $$
 <br>
 Map: https://tinyurl.com/f5pp8cw6
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-DeepSkyBlue</styleUrl>
    <Point>
     <coordinates>16.1411,41.17231,0</coordinates>
    </Point>
   </Placemark>
  </Folder>
- <Style id="paddle-grn-circle">
-  <IconStyle>
-   <Icon>
-    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
-   </Icon>
-  </IconStyle>
- </Style>
+
+    <Style id='paddle-wht-circle-DeepSkyBlue'>
+      <IconStyle>
+        <color>ffffbf00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
 </Document>
 </kml>

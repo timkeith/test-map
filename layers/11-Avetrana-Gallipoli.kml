@@ -1,21 +1,21 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>D5_Avetrana-Sant Isidoro-Gallipoli (ENGLISH)</name>
+  <name>11 Avetrana - Gallipoli</name>
   <description></description>
   <Placemark>
-   <name>D5_Avetrana-Sant Isidoro-Gallipoli (ENGLISH)</name>
+   <name>11 Avetrana - Gallipoli</name>
    <description><![CDATA[
 distance: 36 miles
 <br>
 elevation: 889 feet
 <br>
-link: https://tinyurl.com/yssp5aas
+RWGPS: https://tinyurl.com/ywfzkw5t
    ]]></description>
    <Style>
     <LineStyle>
-     <color>ff65bc0f</color>
+     <color>ffbc0f98</color>
      <width>3</width>
     </LineStyle>
    </Style>

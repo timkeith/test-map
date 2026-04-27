@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
@@ -11,7 +11,7 @@ distance: 36 miles
 <br>
 elevation: 1194 feet
 <br>
-link: https://tinyurl.com/yr92ha6p
+RWGPS: https://tinyurl.com/yr92ha6p
    ]]></description>
    <Style>
     <LineStyle>

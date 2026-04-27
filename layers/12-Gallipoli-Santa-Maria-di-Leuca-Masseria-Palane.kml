@@ -1,21 +1,21 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>D6_Gallipoli - Santa Maria di Leuca (Masseria Palane)</name>
+  <name>12 Gallipoli - Santa Maria di Leuca (Masseria Palane)</name>
   <description></description>
   <Placemark>
-   <name>D6_Gallipoli - Santa Maria di Leuca (Masseria Palane)</name>
+   <name>12 Gallipoli - Santa Maria di Leuca (Masseria Palane)</name>
    <description><![CDATA[
 distance: 36 miles
 <br>
 elevation: 781 feet
 <br>
-link: https://tinyurl.com/4k8u8pnx
+RWGPS: https://tinyurl.com/zmnfm9k
    ]]></description>
    <Style>
     <LineStyle>
-     <color>ff0f33bc</color>
+     <color>ff65bc0f</color>
      <width>3</width>
     </LineStyle>
    </Style>

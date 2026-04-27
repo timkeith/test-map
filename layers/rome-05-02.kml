@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
@@ -15,7 +15,7 @@ http://www.armoniaopera.it/
 <br>
 Via del Viminale, 38, 00184 Roma RM
 <br>
-Google: 4.7 (123)
+Google: 4.7 (124)
 <br>
 Map: https://tinyurl.com/43sfu8fw
 <br>
@@ -23,7 +23,7 @@ Map: https://tinyurl.com/43sfu8fw
 <br>
 Sat, May 2
    ]]></description>
-   <styleUrl>#paddle-blu-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-red</styleUrl>
    <Point>
     <coordinates>12.49588,41.90025,0</coordinates>
    </Point>
@@ -37,11 +37,11 @@ https://bit.ly/4dXgwv6
 <br>
       Via Principe Amedeo, 72a/74, 00185 Roma RM
 <br>
-      Google: 4.5 (1858) $$
+      Google: 4.5 (1873) $$
 <br>
       Map: https://tinyurl.com/3hvkwr5b
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-blue</styleUrl>
    <Point>
     <coordinates>12.50017,41.89901,0</coordinates>
    </Point>
@@ -55,11 +55,11 @@ http://www.trattoriacecio.it/
 <br>
       Via Principe Amedeo, 104, 00185 Roma RM
 <br>
-      Google: 4.5 (4074) $$
+      Google: 4.5 (4101) $$
 <br>
       Map: https://tinyurl.com/3txwb6mb
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-blue</styleUrl>
    <Point>
     <coordinates>12.50122,41.89843,0</coordinates>
    </Point>
@@ -73,11 +73,11 @@ https://social.quandoo.com/en/groups/ristorante-e-pizzeria-sapori-di-roma-101571
 <br>
       Via Principe Amedeo, 70A, 00185 Roma RM
 <br>
-      Google: 4.5 (3628) $
+      Google: 4.5 (3693) $
 <br>
       Map: https://tinyurl.com/4cdat5fk
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-blue</styleUrl>
    <Point>
     <coordinates>12.49999,41.89913,0</coordinates>
    </Point>
@@ -91,11 +91,11 @@ https://www.dtromemonti.com/eat-e-drink/mamalia-restaurant/
 <br>
       P.za dell'Esquilino, 1, 00185 Roma RM
 <br>
-      Google: 4.7 (188)
+      Google: 4.7 (207)
 <br>
       Map: https://tinyurl.com/2wwt6shx
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-blue</styleUrl>
    <Point>
     <coordinates>12.49678,41.89894,0</coordinates>
    </Point>
@@ -109,11 +109,11 @@ http://www.trattoriatoscaroma.com/
 <br>
       Via del Viminale, 33, 00184 Roma RM
 <br>
-      Google: 4.6 (2035) $$
+      Google: 4.6 (2064) $$
 <br>
       Map: https://tinyurl.com/msc93ksd
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-blue</styleUrl>
    <Point>
     <coordinates>12.49532,41.90011,0</coordinates>
    </Point>
@@ -129,29 +129,37 @@ http://www.mercatocentrale.it/roma
 <br>
 Via Giovanni Giolitti, 36, 00185 Roma RM
 <br>
-Google: 4.4 (15921) $$
+Google: 4.4 (15964) $$
 <br>
 Map: https://tinyurl.com/yc7ekfzk
    ]]></description>
-   <styleUrl>#paddle-grn-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-blue</styleUrl>
    <Point>
     <coordinates>12.50345,41.89881,0</coordinates>
    </Point>
   </Placemark>
  </Folder>
- <Style id="paddle-blu-circle">
-  <IconStyle>
-   <Icon>
-    <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
-   </Icon>
-  </IconStyle>
- </Style>
- <Style id="paddle-grn-circle">
-  <IconStyle>
-   <Icon>
-    <href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href>
-   </Icon>
-  </IconStyle>
- </Style>
+
+    <Style id='paddle-wht-circle-red'>
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
+
+    <Style id='paddle-wht-circle-blue'>
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
 </Document>
 </kml>

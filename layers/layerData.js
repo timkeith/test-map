@@ -1,100 +1,111 @@
 const layerData = [
   {
     "name": "Rome May 2nd",
-    "url": "rome-05-02.kml?v=be29a5f3"
+    "url": "rome-05-02.kml?v=f875000e"
   },
   {
     "name": "Hotels",
-    "url": "hotels.kml?v=54d87e25"
+    "url": "hotels.kml?v=41f74bf2"
   },
   {
     "name": "Train",
+    "selected": false,
     "children": [
       {
-        "name": "Termini - Trani, May 3",
-        "url": "train-05-03.kml?v=c9240542"
+        "name": "Roma - Trani, May 3",
+        "url": "train-05-03.kml?v=fd46b5b3"
       },
       {
-        "name": "Lecce Stazione - Roma, May 24",
-        "url": "train-05-24.kml?v=8af30155"
+        "name": "Lecce Stazione - Roma, May 25",
+        "url": "train-05-25.kml?v=176ac3aa"
       }
     ]
   },
   {
     "name": "Restaurants",
+    "selected": true,
     "children": [
       {
         "name": "Michelin 1-star",
-        "url": "restaurants-1.kml?v=8c210f3d"
+        "url": "restaurants-1.kml?v=305865d5"
       },
       {
         "name": "High-end Restaurants",
-        "url": "restaurants-2.kml?v=41611f87"
+        "url": "restaurants-2.kml?v=9ee2c2fe"
+      },
+      {
+        "name": "Bike Basilicata",
+        "url": "restaurants-4.kml?v=10d8fd4f"
+      },
+      {
+        "name": "Others",
+        "url": "restaurants-3.kml?v=440b4585"
       }
     ]
   },
   {
     "name": "Bike Routes",
+    "selected": false,
     "children": [
       {
         "name": "01 Trani -Torre di Nebbia",
-        "url": "01-Trani-Torre-di-Nebbia.kml?v=c238e3f2"
+        "url": "01-Trani-Torre-di-Nebbia.kml?v=d07216bc"
       },
       {
         "name": "02 Torre di Nebbia - Gravina",
-        "url": "02-Torre-di-Nebbia-Gravina.kml?v=3a1f9c41"
+        "url": "02-Torre-di-Nebbia-Gravina.kml?v=016e93af"
       },
       {
         "name": "03 Gravina in Puglia - Matera",
-        "url": "03-Gravina-in-Puglia-Matera.kml?v=5d3787f7"
+        "url": "03-Gravina-in-Puglia-Matera.kml?v=ca46e53a"
       },
       {
-        "name": "04.a Loop from Matera Torre Spagnola Belvedere",
-        "url": "04-a-Loop-from-Matera-Torre-Spagnola-Belvedere.kml?v=9341a3b9"
+        "name": "04a Loop from Matera Torre Spagnola Belvedere",
+        "url": "04a-Loop-from-Matera-Torre-Spagnola-Belvedere.kml?v=d84977cc"
       },
       {
-        "name": "04.b Loop from Matera_San_Giuliano_Lake_Crypt_of_Original_Sin",
-        "url": "04-b-Loop-from-Matera_San_Giuliano_Lake_Crypt_of_Original_Sin.kml?v=de0d2cff"
+        "name": "04b Loop from Matera_San_Giuliano_Lake_Crypt_of_Original_Sin",
+        "url": "04b-Loop-from-Matera_San_Giuliano_Lake_Crypt_of_Original_Sin.kml?v=eb6edae0"
       },
       {
         "name": "05 Matera to Noci",
-        "url": "05-Matera-to-Noci.kml?v=4bd0062f"
+        "url": "05-Matera-to-Noci.kml?v=f9b36e10"
       },
       {
         "name": "06 Noci - Alberobello - Locorotondo - Masseria Le Torri",
-        "url": "06-Noci-Alberobello-Locorotondo-Masseria-Le-Torri.kml?v=73000bd1"
+        "url": "06-Noci-Alberobello-Locorotondo-Masseria-Le-Torri.kml?v=7e013c8f"
       },
       {
         "name": "07 Loop from Masseria Le Torri (Polignano a Mare, Monopoli)",
-        "url": "07-Loop-from-Masseria-Le-Torri-Polignano-a-Mare-Monopoli.kml?v=ebb35c03"
+        "url": "07-Loop-from-Masseria-Le-Torri-Polignano-a-Mare-Monopoli.kml?v=03688748"
       },
       {
         "name": "08 Masseria Le Torri to Ostuni",
-        "url": "08-Masseria-Le-Torri-to-Ostuni.kml?v=7af35cba"
+        "url": "08-Masseria-Le-Torri-to-Ostuni.kml?v=1d770a79"
       },
       {
         "name": "09 Loop from Ostuni (to Martina Franca)",
-        "url": "09-Loop-from-Ostuni-to-Martina-Franca.kml?v=0b209120"
+        "url": "09-Loop-from-Ostuni-to-Martina-Franca.kml?v=9f961349"
       },
       {
         "name": "10 Ostuni - Avetrana (Masseria Bosco)",
-        "url": "10-Ostuni-Avetrana-Masseria-Bosco.kml?v=af738961"
+        "url": "10-Ostuni-Avetrana-Masseria-Bosco.kml?v=acdb4ae1"
       },
       {
-        "name": "D12_Santa Maria di Leuca - Otranto",
-        "url": "D12_Santa-Maria-di-Leuca-Otranto.kml?v=5951acda"
+        "name": "11 Avetrana - Gallipoli",
+        "url": "11-Avetrana-Gallipoli.kml?v=28dae71e"
       },
       {
-        "name": "D5_Avetrana-Sant Isidoro-Gallipoli (ENGLISH)",
-        "url": "D5_Avetrana-Sant-Isidoro-Gallipoli-ENGLISH.kml?v=2af2a918"
+        "name": "12 Gallipoli - Santa Maria di Leuca (Masseria Palane)",
+        "url": "12-Gallipoli-Santa-Maria-di-Leuca-Masseria-Palane.kml?v=f0ec1277"
       },
       {
-        "name": "D6_Gallipoli - Santa Maria di Leuca (Masseria Palane)",
-        "url": "D6_Gallipoli-Santa-Maria-di-Leuca-Masseria-Palane.kml?v=96db789b"
+        "name": "13 Santa Maria di Leuca - Otranto",
+        "url": "13-Santa-Maria-di-Leuca-Otranto.kml?v=353ddd1b"
       },
       {
-        "name": "D7_Otranto - Lecce",
-        "url": "D7_Otranto-Lecce.kml?v=517e0510"
+        "name": "14 Otranto - Lecce",
+        "url": "14-Otranto-Lecce.kml?v=9c00c609"
       }
     ]
   }

@@ -1,21 +1,21 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>D12_Santa Maria di Leuca - Otranto</name>
+  <name>13 Santa Maria di Leuca - Otranto</name>
   <description></description>
   <Placemark>
-   <name>D12_Santa Maria di Leuca - Otranto</name>
+   <name>13 Santa Maria di Leuca - Otranto</name>
    <description><![CDATA[
 distance: 32 miles
 <br>
 elevation: 2110 feet
 <br>
-link: https://tinyurl.com/45fvt8bk
+RWGPS: https://tinyurl.com/5aey2txw
    ]]></description>
    <Style>
     <LineStyle>
-     <color>ffbc0f98</color>
+     <color>ff0f33bc</color>
      <width>3</width>
     </LineStyle>
    </Style>

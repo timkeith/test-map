@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
@@ -15,11 +15,11 @@ https://www.vlristorante.it/
 <br>
 Via Madonna delle Virtù, 13, 75100 Matera MT
 <br>
-Google: 4.7 (574) $$$$
+Google: 4.7 (575) $$$$
 <br>
 Map: https://tinyurl.com/3xewway8
    ]]></description>
-   <styleUrl>#paddle-blu-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-SkyBlue</styleUrl>
    <Point>
     <coordinates>16.61268,40.66737,0</coordinates>
    </Point>
@@ -35,11 +35,11 @@ http://www.primorestaurant.it/
 <br>
 Via 47 Reggimento Fanteria, 7, 73100 Lecce LE
 <br>
-Google: 4.5 (320)
+Google: 4.5 (321)
 <br>
 Map: https://tinyurl.com/392dn5r3
    ]]></description>
-   <styleUrl>#paddle-blu-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-SkyBlue</styleUrl>
    <Point>
     <coordinates>18.17753,40.35259,0</coordinates>
    </Point>
@@ -55,11 +55,11 @@ http://www.quintessenzaristorante.it/
 <br>
 Via Lionelli, 62, 76125 Trani BT
 <br>
-Google: 4.8 (937) $$$
+Google: 4.8 (939) $$$
 <br>
 Map: https://tinyurl.com/3vmd4yhr
    ]]></description>
-   <styleUrl>#paddle-blu-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-SkyBlue</styleUrl>
    <Point>
     <coordinates>16.41499,41.28143,0</coordinates>
    </Point>
@@ -75,11 +75,11 @@ https://casasgarra.it/
 <br>
 Lungomare Cristoforo Colombo, 114, 76125 Trani BT
 <br>
-Google: 4.9 (551)
+Google: 4.9 (553)
 <br>
 Map: https://tinyurl.com/4rxhwj9y
    ]]></description>
-   <styleUrl>#paddle-blu-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-SkyBlue</styleUrl>
    <Point>
     <coordinates>16.43429,41.27038,0</coordinates>
    </Point>
@@ -97,18 +97,22 @@ https://www.viniliaresort.com/it/ristorante-stellato-casamatta-taranto
 <br>
       Map: https://tinyurl.com/bdsv2c24
    ]]></description>
-   <styleUrl>#paddle-blu-circle</styleUrl>
+   <styleUrl>#paddle-wht-circle-SkyBlue</styleUrl>
    <Point>
     <coordinates>17.59946,40.41199,0</coordinates>
    </Point>
   </Placemark>
  </Folder>
- <Style id="paddle-blu-circle">
-  <IconStyle>
-   <Icon>
-    <href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
-   </Icon>
-  </IconStyle>
- </Style>
+
+    <Style id='paddle-wht-circle-SkyBlue'>
+      <IconStyle>
+        <color>ffebce87</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  
 </Document>
 </kml>

@@ -1,8 +1,8 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>Termini - Trani, May 3</name>
+  <name>Roma - Trani, May 3</name>
   <description></description>
   <Placemark>
    <name>Roma Termini - Trani</name>
@@ -11,14 +11,14 @@ FR 9511
    ]]></description>
    <Style>
     <LineStyle>
-     <color>ff008000</color>
+     <color>ff32cd32</color>
      <width>3</width>
     </LineStyle>
    </Style>
    <LineString>
     <tessellate>1</tessellate>
     <coordinates>
-12.50158,41.90129,0 14.32832,41.06885,0 14.76951,41.14187,0 15.55559,41.46555,0 16.41778,41.27279,0
+12.50158,41.90129,0 14.32832,41.06885,0 14.76951,41.14187,0 15.55562,41.46559,0 16.41778,41.27279,0
 </coordinates>
    </LineString>
   </Placemark>

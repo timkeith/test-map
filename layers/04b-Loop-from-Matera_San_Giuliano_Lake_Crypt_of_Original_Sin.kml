@@ -1,11 +1,11 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
  <Folder>
-  <name>04.b Loop from Matera_San_Giuliano_Lake_Crypt_of_Original_Sin</name>
+  <name>04b Loop from Matera_San_Giuliano_Lake_Crypt_of_Original_Sin</name>
   <description>loop to the lake moving from Ferula Bike Shop. You can find some traffic at the exit of Matera, be careful. You can extend your tour once you are by the lake </description>
   <Placemark>
-   <name>04.b Loop from Matera_San_Giuliano_Lake_Crypt_of_Original_Sin</name>
+   <name>04b Loop from Matera_San_Giuliano_Lake_Crypt_of_Original_Sin</name>
    <description><![CDATA[
 loop to the lake moving from Ferula Bike Shop. You can find some traffic at the exit of Matera, be careful. You can extend your tour once you are by the lake
 <br>
@@ -13,7 +13,7 @@ distance: 21 miles
 <br>
 elevation: 1663 feet
 <br>
-link: https://tinyurl.com/mwu543t4
+RWGPS: https://tinyurl.com/mwu543t4
    ]]></description>
    <Style>
     <LineStyle>

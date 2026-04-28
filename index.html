@@ -8,18 +8,24 @@
   <link rel='icon' type='image/x-icon' href='favicon.ico'>
 </head>
 <body>
-
-
-  <div id='sidebar'>
-    <div class='layer-controls'>
-      <button onclick='toggleAllLayers(true)'>All On</button>
-      <button onclick='toggleAllLayers(false)'>All Off</button>
-      <button onclick='recenterMap()' title='Recenter on active layers'>Re-center</button>
+  <div id='sidebar-wrapper'>
+    <div id='sidebar'>
+      <div class='layer-controls'>
+        <button onclick='toggleAllLayers(true)'>All On</button>
+        <button onclick='toggleAllLayers(false)'>All Off</button>
+        <button onclick='recenterMap()'>Re-center</button>
+      </div>
+      <div id='layers'></div>
     </div>
-    <div id='layers'></div>
+    <button id='sidebar-toggle' onclick='toggleSidebar()'>
+      <span class='icon'>❮</span>
+    </button>
   </div>
-  <div id='map'></div>
+  <button id='sidebar-toggle' onclick='toggleSidebar()'>
+    <span class='icon'>❮</span>
+  </button>
 
+  <div id='map'></div>
   <script
     src='https://maps.googleapis.com/maps/api/js?key=AIzaSyB3sfpp0u9UForUSTcrZhhPLF1iWxKkXKU&callback=initMap'
     async

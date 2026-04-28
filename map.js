@@ -81,6 +81,11 @@ function buildTree(data, parentElement, forceSelect = false) {
   });
   parentElement.appendChild(ul);
 }
+
+function toggleSidebar() {
+  document.body.classList.toggle('sidebar-is-closed');
+}
+
 // Calculate the combined bounds of all checked KML layers and fit the map to them.
 function recenterMap() {
   const newBounds = new google.maps.LatLngBounds();

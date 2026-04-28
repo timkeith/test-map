@@ -17,26 +17,50 @@ html, body {
   z-index:  1; /* Lowest layer */
 }
 
+#sidebar-wrapper {
+  position:    absolute;
+  bottom:      4px;
+  left:        4px;
+  z-index:     10;
+  display:     flex;
+  align-items: flex-start; /* Aligns button to the top of the sidebar */
+  transition:  transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 #sidebar {
-  position: absolute;
-  bottom:   4px;
-  left:     4px;
-  width:    300px;
-  
-  /* Change fixed height to dynamic max-height */
-  height:     auto; 
-  max-height: 80vh; 
-  
+  width:          300px;
+  max-height:     80vh;
   display:        flex;
-  flex-direction: column; 
+  flex-direction: column;
   background:     rgba(255, 255, 255, 0.95);
   box-shadow:     0 4px 15px rgba(0,0,0,0.3);
   border-radius:  8px;
-  z-index:        10;
   border:         1px solid #ccc;
-  
-  /* Prevents the sidebar from "flickering" as it calculates height */
-  overflow: hidden; 
+  overflow:       hidden; /* Clips the inner content, not the button */
+}
+
+#sidebar-toggle {
+  margin-left:     0; 
+  margin-top:      10px; /* How far from the top of the sidebar you want it */
+  width:           35px;
+  height:          35px;
+  background:      white;
+  border:          1px solid #ccc;
+  border-left:     none; /* Merges it visually with the sidebar */
+  border-radius:   0 8px 8px 0;
+  cursor:          pointer;
+  box-shadow:      2px 0 5px rgba(0,0,0,0.1);
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+}
+
+.sidebar-is-closed #sidebar-wrapper {
+  transform: translateX(-304px); /* 304 = width of sidebar and margin */
+}
+
+.sidebar-is-closed #sidebar-toggle .icon {
+  transform: rotate(180deg);
 }
 
 .layer-controls {

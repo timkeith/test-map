@@ -2,6 +2,11 @@ let map;
 let isMapReady = false;
 let allLayers = []; // for recenter: list of {layer: KmlLayer, checkbox: Element}
 
+window.onerror = function(msg, url, line) {
+  alert('Error: ' + msg + '\nurl: ' + url + '\nline: ' + line);
+  return false;
+};
+
 // 1. Google calls this when the SCRIPT is loaded
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
@@ -24,6 +29,7 @@ function checkAndStart() {
   const layersContainer = document.getElementById('layers');
   // ONLY run if the Map is initialized AND the sidebar div exists
   if (isMapReady && layersContainer && typeof layerData !== 'undefined') {
+    alert('layerData has: ' + layerData.length);
     buildTree(layerData, layersContainer);
   } else {
     console.log('Waiting for Map or Data...');
@@ -33,7 +39,7 @@ function checkAndStart() {
 // Added forceSelect parameter (defaults to false)
 function buildTree(data, parentElement, forceSelect = false) {
   if (!data || data.length === 0) {
-    parentElement.innerHTML = '<p style='color:red'>No data received!</p>';
+    parentElement.innerHTML = '<p style="color:red">No data received!</p>';
     return;
   }
   const baseUrl = new URL('./', window.location.href).href;

@@ -1,6 +1,8 @@
 let map;
+let isMapReady = false;
 let allLayers = []; // for recenter: list of {layer: KmlLayer, checkbox: Element}
 
+// 1. Google calls this when the SCRIPT is loaded
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     center: { lat: 0, lng: 0 },
@@ -9,12 +11,31 @@ function initMap() {
       position: google.maps.ControlPosition.TOP_RIGHT // Moves buttons to avoid the legend
     }
   });
-  const container = document.getElementById('layers');
-  buildTree(layerData, container);
+  isMapReady = true;
+  checkAndStart();
+}
+
+// 2. The browser calls this when the HTML is loaded
+document.addEventListener('DOMContentLoaded', () => {
+  checkAndStart();
+});
+
+function checkAndStart() {
+  const layersContainer = document.getElementById('layers');
+  // ONLY run if the Map is initialized AND the sidebar div exists
+  if (isMapReady && layersContainer && typeof layerData !== 'undefined') {
+    buildTree(layerData, layersContainer);
+  } else {
+    console.log('Waiting for Map or Data...');
+  }
 }
 
 // Added forceSelect parameter (defaults to false)
 function buildTree(data, parentElement, forceSelect = false) {
+  if (!data || data.length === 0) {
+    parentElement.innerHTML = '<p style='color:red'>No data received!</p>';
+    return;
+  }
   const baseUrl = new URL('./', window.location.href).href;
   const ul = document.createElement('ul');
 

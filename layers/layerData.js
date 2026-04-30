@@ -35,7 +35,7 @@ const layerData = [
       },
       {
         "name": "Bike Basilicata recommendations",
-        "url": "restaurants-4.kml?v=c2d6f786"
+        "url": "restaurants-4.kml?v=0a354003"
       },
       {
         "name": "Google top-rated",

@@ -832,6 +832,108 @@ http://salentoretro.net/
     <coordinates>18.35066,39.83202,0</coordinates>
    </Point>
   </Placemark>
+  <Placemark>
+   <name>Porto di Otranto</name>
+   <description><![CDATA[
+http://www.portodiotranto.it/
+<br>
+      Via del Porto, 73028 Otranto LE
+<br>
+      Google: 4.7 (4351)
+<br>
+      Map: https://timk.short.gy/8WDtHy
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
+   <Point>
+    <coordinates>18.49321,40.14746,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>ArborVitae - Otranto</name>
+   <description><![CDATA[
++39 0836 806816
+<br>
+https://www.arborvitaeotranto.it/
+<br>
+      Via G. M. Laggetto, 38, 73028 Otranto LE
+<br>
+      Google: 4.4 (812) · €40 - €80
+<br>
+      Map: https://timk.short.gy/CI11EG
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
+   <Point>
+    <coordinates>18.49087,40.1452,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>L&#x27;Ortale Ristoro SAlentissimo</name>
+   <description><![CDATA[
++39 0836 307413
+<br>
+http://www.lortale.com/
+<br>
+      Via Cenobio Basiliano, 14, 73028 Otranto LE
+<br>
+      Google: 4.7 (1022) · €10 - €20
+<br>
+      Map: https://timk.short.gy/WDIapH
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
+   <Point>
+    <coordinates>18.49109,40.14518,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Caffè Alvino</name>
+   <description><![CDATA[
++39 0832 246748
+<br>
+      Piazza Sant'Oronzo, 30, 73100 Lecce LE
+<br>
+      Google: 4.2 (5035) · €1 - €10
+<br>
+      Map: https://timk.short.gy/6ImhJH
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
+   <Point>
+    <coordinates>18.17313,40.35288,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Le Zie Trattoria Casereccia</name>
+   <description><![CDATA[
++39 0832 245178
+<br>
+      Via Colonnello Archimede Costadura, 19, 73100 Lecce LE
+<br>
+      Google: 4.3 (1435) · €20 - €30
+<br>
+      Map: https://timk.short.gy/C0KtlI
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
+   <Point>
+    <coordinates>18.17497,40.35731,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>3 Rane</name>
+   <description><![CDATA[
++39 375 504 0165
+<br>
+https://www.facebook.com/3raneristoro/
+<br>
+      Via Cavour, 7, 73100 Lecce LE
+<br>
+      Google: 4.7 (498) · €40 - €70
+<br>
+      Map: https://timk.short.gy/HSrKrL
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
+   <Point>
+    <coordinates>18.17523,40.35086,0</coordinates>
+   </Point>
+  </Placemark>
  </Folder>
 
     <Style id='paddle-wht-circle-DodgerBlue'>

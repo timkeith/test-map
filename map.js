@@ -29,7 +29,6 @@ function checkAndStart() {
   const layersContainer = document.getElementById('layers');
   // ONLY run if the Map is initialized AND the sidebar div exists
   if (isMapReady && layersContainer && typeof layerData !== 'undefined') {
-    alert('layerData has: ' + layerData.length);
     buildTree(layerData, layersContainer);
   } else {
     console.log('Waiting for Map or Data...');

@@ -485,6 +485,444 @@ http://www.tipica-mente.it/
    </Point>
   </Placemark>
   <Placemark>
+   <name>Fresco Mare</name>
+   <description><![CDATA[
++39 349 563 6431
+<br>
+      Via Figura, 20, 70015 Noci BA
+<br>
+      Google: 4.8 (99) · €40 - €50
+<br>
+      Map: https://timk.short.gy/MZrOlW
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.12287,40.79464,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>&quot;Il Panino&quot; di Marino e Dogghia D&#x27;Aneme</name>
+   <description><![CDATA[
++39 320 257 1170
+<br>
+https://it-it.facebook.com/paninodimarino
+<br>
+      Via Camillo Benso Conte di Cavour, 86, 70015 Noci BA
+<br>
+      Google: 4.8 (557) · €10 - €20
+<br>
+      Map: https://timk.short.gy/wlFjTs
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.12338,40.79329,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ama&#x27;s - Petit bistrot</name>
+   <description><![CDATA[
++39 080 901 2006
+<br>
+https://www.amasbistrot.it/
+<br>
+dinner only
+<br>
+      Via Giosuè Carducci, 3/C, 70015 Noci BA
+<br>
+      Google: 4.7 (71) · €20 - €30
+<br>
+      Map: https://timk.short.gy/lkoIzT
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.12193,40.79683,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Copo - Cinecoteca italiana</name>
+   <description><![CDATA[
++39 080 352 8865
+<br>
+https://copocinecoteca.it/
+<br>
+dinner only
+<br>
+      Via Benedetto Petrone, 61, 70015 Noci BA
+<br>
+      Google: 4.7 (128) · €20 - €30
+<br>
+      Map: https://timk.short.gy/vJ2rHp
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.11924,40.79601,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Masino Orecchietta Bistrot</name>
+   <description><![CDATA[
++39 379 220 7852
+<br>
+https://www.paginesi.it/scheda/masino-orecchietta-bistrot-cucina-tipica-pugliese-orecchiette-pugliesi-cucina-di-agricoltura-biologica-prodotti-a-km-0/18146747/
+<br>
+      Via Camillo Benso Conte di Cavour, 53, 70015 Noci BA
+<br>
+      Google: 4.8 (159) · €10 - €20
+<br>
+      Map: https://timk.short.gy/Hv4Az0
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.12299,40.79371,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Arte e Gusto Pizzeria - Noci</name>
+   <description><![CDATA[
++39 380 191 3373
+<br>
+dinner only
+<br>
+      Via Vittorio Emanuele II, 59, 70015 Noci BA
+<br>
+      Google: 4.7 (153) · €1 - €10
+<br>
+      Map: https://timk.short.gy/If5ity
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.12173,40.79447,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Dama Bianca Restaurant &amp; Cafè</name>
+   <description><![CDATA[
++39 379 345 1602
+<br>
+https://www.damabiancarestaurant.net/
+<br>
+      Via Giordano Bruno, 13, 72017 Ostuni BR
+<br>
+      Google: 4.8 (35) · €30 - €40
+<br>
+      Map: https://timk.short.gy/jKh3DL
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.57799,40.72941,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ramunno Bistrot</name>
+   <description><![CDATA[
++39 0831 366849
+<br>
+http://www.ramunnobistrot.it/
+<br>
+      Via Giovanni Lanza, 9, 72017 Ostuni BR
+<br>
+      Google: 4.7 (533) · €30 - €60
+<br>
+      Map: https://timk.short.gy/T3OcPB
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.57861,40.7325,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Dish Restaurant</name>
+   <description><![CDATA[
++39 347 249 9860
+<br>
+https://www.dishrestaurant.it/
+<br>
+      Corso Vittorio Emanuele II, 37, 72017 Ostuni BR
+<br>
+      Google: 4.6 (358) · €30 - €80
+<br>
+      Map: https://timk.short.gy/8vLxEl
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.58048,40.73116,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Vulcani</name>
+   <description><![CDATA[
++39 0831 148 0840
+<br>
+http://www.vulcaniostuni.it/
+<br>
+      Via Fran. Tanz. Vitale, 6, 72017 Ostuni BR
+<br>
+      Google: 5 (369) · €10 - €20
+<br>
+      Map: https://timk.short.gy/ft7vEU
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.5774,40.73275,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ristorante La Vecchia Terrazza Ostuni</name>
+   <description><![CDATA[
++39 391 742 6129
+<br>
+https://www.lavecchiaterrazza.it/en-gb
+<br>
+      Vico Benedetto Brin, 7/9, 72017 Ostuni BR
+<br>
+      Google: 4.6 (543) · €30 - €50
+<br>
+      Map: https://timk.short.gy/lxsf3B
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.58112,40.73077,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Doppio Gusto - Bistrot</name>
+   <description><![CDATA[
++39 371 635 3750
+<br>
+      Via Clemente Leonardo, 146, 72017 Ostuni BR
+<br>
+      Google: 4.8 (377) · €10 - €20
+<br>
+      Map: https://timk.short.gy/dNBTEI
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.57865,40.73474,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ristorante Il Fienile Ostuni</name>
+   <description><![CDATA[
++39 0831 198 2382
+<br>
+      Contrada Rosara, 7, 72017 Ostuni BR
+<br>
+      Google: 4.7 (383) · €30 - €40
+<br>
+      Map: https://timk.short.gy/QSZHfN
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.58928,40.73365,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Osteria Ricanatti</name>
+   <description><![CDATA[
++39 0831 156 1831
+<br>
+https://www.osteriaricanatti.it/
+<br>
+      Corso Camillo Benso Cavour, 37, 72017 Ostuni BR
+<br>
+      Google: 4.7 (340)
+<br>
+      Map: https://timk.short.gy/LyJ2L1
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.57954,40.73097,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Il Convivio Bistrot</name>
+   <description><![CDATA[
++39 338 896 8349
+<br>
+https://www.facebook.com/ilconviviobistrot/timeline
+<br>
+      Via Ciro Menotti, 14, 72017 Ostuni BR
+<br>
+      Google: 4.7 (451) · €10 - €20
+<br>
+      Map: https://timk.short.gy/cUwFwv
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.57807,40.72727,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Pansà</name>
+   <description><![CDATA[
++39 366 491 1781
+<br>
+      Via Pola, 49, 72017 Ostuni BR
+<br>
+      Google: 4.9 (10) · €10 - €20
+<br>
+      Map: https://timk.short.gy/9oiCac
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.57573,40.72739,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Maravija Paninotteria</name>
+   <description><![CDATA[
++39 0833 215960
+<br>
+      Via Antonietta de Pace, 56, 73014 Gallipoli LE
+<br>
+      Google: 4.9 (661) · €10 - €20
+<br>
+      Map: https://timk.short.gy/TpA8qI
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.97686,40.05508,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Osteria Briganti</name>
+   <description><![CDATA[
++39 0833 261166
+<br>
+https://www.facebook.com/osteriabrigantigallipoli
+<br>
+      Via Antonietta de Pace, 107, 73014 Gallipoli LE
+<br>
+      Google: 4.6 (2196) · €30 - €40
+<br>
+      Map: https://timk.short.gy/LvK50Y
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.97432,40.05428,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Le Garibaldine</name>
+   <description><![CDATA[
++39 388 114 0082
+<br>
+https://m.facebook.com/pages/category/Restaurant/Le-Garibaldine-661691050609211/
+<br>
+      Via XXIV Maggio, 11, 73014 Gallipoli LE
+<br>
+      Google: 4.6 (1663) · €20 - €40
+<br>
+      Map: https://timk.short.gy/0YeAhs
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.97751,40.0556,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Sforna Focacceria</name>
+   <description><![CDATA[
++39 375 945 3789
+<br>
+lunch only
+<br>
+      Riviera Nazario Sauro, 17, 73014 Gallipoli LE
+<br>
+      Google: 4.6 (183) · €10 - €20
+<br>
+      Map: https://timk.short.gy/8i27tF
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.97482,40.05631,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Santa Monaca</name>
+   <description><![CDATA[
++39 329 596 3258
+<br>
+https://www.santamonaca.it/
+<br>
+      Riviera Nazario Sauro, 41, 73014 Gallipoli LE
+<br>
+      Google: 4.6 (1651) · €30 - €50
+<br>
+      Map: https://timk.short.gy/8U66j5
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.97493,40.05542,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>AMU Fish Restaurant &amp; Store</name>
+   <description><![CDATA[
++39 346 892 5685
+<br>
+https://www.instagram.com/amufishrestaurantgallipoli?igsh=MTR6c2g2dWxoemc3cw%3D%3D&utm_source=qr
+<br>
+      Riviera Armando Diaz, 9, 73014 Gallipoli LE
+<br>
+      Google: 4.6 (645) · €30 - €60
+<br>
+      Map: https://timk.short.gy/Y2pcMF
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.975,40.0528,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Lu Sule Piadineria Cannoleria</name>
+   <description><![CDATA[
++39 349 196 5120
+<br>
+      Corso Roma, 132, 73014 Gallipoli LE
+<br>
+      Google: 4.9 (75) · €1 - €10
+<br>
+      Map: https://timk.short.gy/WR0vZ8
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.9852,40.05622,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>La Puritate</name>
+   <description><![CDATA[
++39 0833 264205
+<br>
+      Via Sant'Elia, 18, 73014 Gallipoli LE
+<br>
+      Google: 4.5 (1652) · €30 - €60
+<br>
+      Map: https://timk.short.gy/KFEvqA
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.97497,40.0551,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>L’Angolo Blu</name>
+   <description><![CDATA[
++39 0833 261500
+<br>
+      Via C. Muzio, 45, 73014 Gallipoli LE
+<br>
+      Google: 4.5 (1317) · €30 - €50
+<br>
+      Map: https://timk.short.gy/qAdNo2
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>17.97555,40.05417,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
    <name>Petra</name>
    <description><![CDATA[
 +39 377 338 6877
@@ -642,6 +1080,146 @@ http://www.osteriadelmacellaio.it/
    <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
    <Point>
     <coordinates>18.35142,39.83383,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Vicolo Matto Fishbar</name>
+   <description><![CDATA[
++39 389 593 6251
+<br>
+https://www.vicolomatto-fishbar.it/
+<br>
+      Via Ciatara, 13, 73028 Otranto LE
+<br>
+      Google: 4.8 (685) · €20 - €50
+<br>
+      Map: https://timk.short.gy/JME8In
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>18.49283,40.14541,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Terra degli Ulivi Ristorante Otranto</name>
+   <description><![CDATA[
++39 327 699 3625
+<br>
+https://terradegliulivirestaurantotranto.eatbu.com/
+<br>
+dinner only
+<br>
+      SP277, 73028 Otranto LE
+<br>
+      Google: 4.8 (415) · €40 - €80
+<br>
+      Map: https://timk.short.gy/OpTIkh
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>18.45861,40.1375,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ristorante Il Diavolicchio Goloso</name>
+   <description><![CDATA[
++39 329 635 2788
+<br>
+http://www.agriturismoildiavolicchio.it/
+<br>
+      Via Mammacasella, 73028 Otranto LE
+<br>
+      Google: 4.7 (983) · €30 - €70
+<br>
+      Map: https://timk.short.gy/Z18DrZ
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>18.47302,40.15527,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Nettuno</name>
+   <description><![CDATA[
++39 0836 801832
+<br>
+https://cdshotels.it/corte-di-nettuno/
+<br>
+      Via Madonna del Passo, 68, 73028 Otranto LE
+<br>
+      Google: 4.7 (35) · €30 - €40
+<br>
+      Map: https://timk.short.gy/IQnICj
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>18.49431,40.14283,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>La Botte Trattoria Pinseria</name>
+   <description><![CDATA[
++39 339 702 3144
+<br>
+https://www.trattorialabotteotranto.it/
+<br>
+      Via Guglielmotto D'Otranto, 14, 73028 Otranto LE
+<br>
+      Google: 4.6 (173) · €20 - €30
+<br>
+      Map: https://timk.short.gy/OzmMMX
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>18.49312,40.1439,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Pescheria De Luca | Trattoria</name>
+   <description><![CDATA[
++39 335 647 5974
+<br>
+      Via Monsignor Luigi Bienna, 4, 73020 Otranto LE
+<br>
+      Google: 4.6 (431)
+<br>
+      Map: https://timk.short.gy/gIF2hk
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>18.48289,40.13602,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>La Tavernetta</name>
+   <description><![CDATA[
++39 329 193 4600
+<br>
+      Via S. Francesco di Paola, 2A, 73028 Otranto LE
+<br>
+      Google: 5 (10)
+<br>
+      Map: https://timk.short.gy/gRyKCA
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>18.48879,40.14574,0</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Nelson Park</name>
+   <description><![CDATA[
++39 380 471 6298
+<br>
+      SS16, Strada Comunale Papi, 1, 73028 Otranto LE
+<br>
+      Google: 4.7 (296) · €10 - €20
+<br>
+      Map: https://timk.short.gy/UCkDQt
+   ]]></description>
+   <styleUrl>#paddle-wht-circle-RoyalBlue</styleUrl>
+   <Point>
+    <coordinates>18.47987,40.14794,0</coordinates>
    </Point>
   </Placemark>
  </Folder>

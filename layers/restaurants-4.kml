@@ -273,22 +273,6 @@ Map: https://timk.short.gy/cOIfMh
    </Point>
   </Placemark>
   <Placemark>
-   <name>Via Santa Caterina</name>
-   <description><![CDATA[
-bakery
-<br>
-Via Santa Caterina, 70022 Altamura BA
-<br>
-Google: None (None)
-<br>
-Map: https://timk.short.gy/PEMfe6
-   ]]></description>
-   <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
-   <Point>
-    <coordinates>16.55435,40.82627,0</coordinates>
-   </Point>
-  </Placemark>
-  <Placemark>
    <name>Madame Giulia</name>
    <description><![CDATA[
 ask for the apericena menu
@@ -458,22 +442,6 @@ Map: https://timk.short.gy/AixI9C
    <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
    <Point>
     <coordinates>16.55701,40.61861,0</coordinates>
-   </Point>
-  </Placemark>
-  <Placemark>
-   <name>Piazza Plebiscito</name>
-   <description><![CDATA[
-lunch
-<br>
-Piazza Plebiscito, 70023 Gioia del Colle BA
-<br>
-Google: None (None)
-<br>
-Map: https://timk.short.gy/cOTIxu
-   ]]></description>
-   <styleUrl>#paddle-wht-circle-DodgerBlue</styleUrl>
-   <Point>
-    <coordinates>16.92191,40.79872,0</coordinates>
    </Point>
   </Placemark>
   <Placemark>
